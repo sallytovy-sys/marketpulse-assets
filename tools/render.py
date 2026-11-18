@@ -26,7 +26,7 @@ body{{margin:0}}</style></head><body>
 <div style="font-weight:500;font-size:20px;color:#6B6B73;margin:2px 0 16px">{s['chart_sub']}</div>
 <div style="display:flex;flex-direction:column;gap:8px;flex:1">{bars(s['rows'])}</div>
 <div style="display:flex;align-items:flex-end;justify-content:space-between;font-weight:500;font-size:18px;color:#6B6B73">
-<div style="display:flex;align-items:center;gap:14px"><img src="file://{ICON}" style="width:56px;height:56px;border-radius:13px"><div>Nguồn: SSI · Phiên {D['date']}</div></div>
+<div style="display:flex;align-items:center;gap:14px"><img src="file://{ICON}" style="width:56px;height:56px;border-radius:13px"><div>{D.get('source','Nguồn: SSI · Phiên '+D['date'])}</div></div>
 <div>Không phải khuyến nghị đầu tư</div></div>
 </div></body></html>'''
 async def main():
