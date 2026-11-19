@@ -1,0 +1,18 @@
+{"date":"19/11/2026","tag":"1911","accent":"#1D5FD1","slides":[
+{"headline":"VN-Index mất thêm 13 điểm, thủng mốc 1.700",
+ "body":"VN-Index giảm 13,39 điểm (−0,79%) về 1.689,62 điểm, phiên giảm thứ hai liên tiếp. VN30 mất 1,00% còn 1.788,51 điểm. Khối lượng khớp khoảng 446,3 triệu cổ phiếu, thấp hơn phiên trước.",
+ "chart_title":"Diễn biến chỉ số và cổ phiếu trụ","chart_sub":"Mức thay đổi trong phiên 19/11, theo dữ liệu SSI",
+ "rows":[{"sym":"FPT","sub":"−1.250 đ","val":2.66,"label":"−2,66%"},{"sym":"VIC","sub":"−5.000 đ","val":2.04,"label":"−2,04%"},{"sym":"VNM","sub":"−900 đ","val":1.73,"label":"−1,73%"},{"sym":"CTG","sub":"−500 đ","val":1.64,"label":"−1,64%"},{"sym":"VN-Index","sub":"−13,39 điểm","val":0.79,"label":"−0,79%"}]},
+{"headline":"Chỉ 6/24 mã lớn tăng giá, GEX dẫn đầu với +1,50%",
+ "body":"GEX, POW và VND tăng hơn 1%, trong khi BID, VIX và MSB tăng nhẹ. HPG, VCB, SHB và SSI đứng giá tham chiếu, 14 mã còn lại giảm.",
+ "chart_title":"5 cổ phiếu tăng mạnh nhất nhóm thanh khoản cao","chart_sub":"Mức thay đổi giá trong phiên 19/11, theo dữ liệu SSI",
+ "rows":[{"sym":"GEX","sub":"+300 đ","val":1.50,"label":"+1,50%"},{"sym":"POW","sub":"+150 đ","val":1.12,"label":"+1,12%"},{"sym":"VND","sub":"+150 đ","val":1.07,"label":"+1,07%"},{"sym":"BID","sub":"+150 đ","val":0.49,"label":"+0,49%"},{"sym":"VIX","sub":"+50 đ","val":0.40,"label":"+0,40%"}]},
+{"headline":"FPT giảm 2,66%, thanh khoản dẫn đầu HOSE hơn 850 tỷ đồng",
+ "body":"FPT, BSR, KDH, VIC và VNM giảm mạnh nhất trong 24 mã thanh khoản cao trên HOSE. FPT giảm phiên thứ hai liên tiếp, giá trị khớp lệnh khoảng 852,5 tỷ đồng.",
+ "chart_title":"5 cổ phiếu giảm mạnh nhất nhóm thanh khoản cao","chart_sub":"Mức giảm giá trong phiên 19/11, theo dữ liệu SSI",
+ "rows":[{"sym":"FPT","sub":"−1.250 đ","val":2.66,"label":"−2,66%"},{"sym":"BSR","sub":"−550 đ","val":2.29,"label":"−2,29%"},{"sym":"KDH","sub":"−350 đ","val":2.17,"label":"−2,17%"},{"sym":"VIC","sub":"−5.000 đ","val":2.04,"label":"−2,04%"},{"sym":"VNM","sub":"−900 đ","val":1.73,"label":"−1,73%"}]},
+{"headline":"Khối ngoại xả 272 tỷ đồng FPT, bán ròng gần 450 tỷ đồng",
+ "body":"Tính trên 11 mã lớn marketpulse theo dõi, khối ngoại bán ròng khoảng 448,4 tỷ đồng, riêng FPT chiếm 272,1 tỷ đồng. Chiều mua ròng có TCB (17,1 tỷ), HPG (14,9 tỷ) và MSN (13,6 tỷ).",
+ "chart_title":"Giá trị mua/bán ròng của khối ngoại","chart_sub":"Đơn vị: tỷ đồng, phiên 19/11, theo dữ liệu SSI",
+ "rows":[{"sym":"FPT","sub":"Bán ròng","val":272.1,"label":"−272,1"},{"sym":"VIC","sub":"Bán ròng","val":58.0,"label":"−58,0"},{"sym":"VCB","sub":"Bán ròng","val":55.2,"label":"−55,2"},{"sym":"TCB","sub":"Mua ròng","val":17.1,"label":"+17,1"},{"sym":"HPG","sub":"Mua ròng","val":14.9,"label":"+14,9"}]}
+]}
