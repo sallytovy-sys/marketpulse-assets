@@ -9,6 +9,14 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
 | 11h45 hằng ngày | Chuyện F0 | Tím #6A4CF5, nền kem | Truyện tranh 1080×1350, 6 slide | Chỉ đăng tập đã duyệt trong `chuyen-f0/queue.json` |
 | 16h05 T2–T6 | Thị trường phiên | CAM #E85D00 | Trắng 1080×1080, Inter Tight, 4 slide | `tools/render.py ... --kind chieu` |
 
+### Story sau mỗi bài (Sally duyệt 19/11/2026)
+- Mỗi bài feed (sáng, F0, chiều) có 1 story đăng **5 phút sau** bài feed, lên cả Instagram và Facebook.
+- Thiết kế story đã duyệt = "kiểu đầu tiên" 1080×1920: dựng bằng `tools/story.py` (mẫu: `tools/examples/story_*.json`).
+  - Sáng: `--kind sang` (xanh dương), Chiều: `--kind chieu` (cam), số liệu lấy đúng từ bài feed cùng ngày.
+  - F0: `--kind f0` từ ảnh bìa `tapN_1.png`, lưu `chuyen-f0/tapN/story.jpg`.
+- Buffer: Instagram metadata {"instagram":{"type":"story","shouldShareToFeed":false}}, Facebook {"facebook":{"type":"story"}}, không caption.
+- Story Instagram đôi khi báo "unknown error": thử lại 1 lần sau 3 phút; vẫn lỗi thì báo Sally (không đăng bản khác thiết kế).
+
 ## 2. Quy tắc thay đổi: PHẢI XÁC NHẬN TRƯỚC KHI TỰ ĐỘNG ĐĂNG
 - Mọi thay đổi về thiết kế (màu, font, bố cục, số slide, kích thước), cấu trúc nội dung, mẫu caption, giờ đăng hay kênh đăng
   đều phải được Sally xem bản mẫu và XÁC NHẬN trước. Chưa xác nhận thì lịch tự động vẫn dùng thiết kế đã khóa ở mục 1.
