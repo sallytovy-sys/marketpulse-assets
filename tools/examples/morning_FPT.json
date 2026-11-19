@@ -1,1 +1,142 @@
-{"date": "19/11/2026", "tag": "FPT", "accent": "#1D5FD1", "source": "Nguồn: SSI · BCTC quý 3/2026", "slides": [{"headline": "FPT: doanh thu giảm 20%, lợi nhuận cổ đông mẹ vẫn tăng gần 12%", "body": "Quý 3/2026, FPT đạt 13.754 tỷ đồng doanh thu thuần (−20,1% so với cùng kỳ) nhưng lợi nhuận thuộc cổ đông công ty mẹ tăng 11,8% lên 2.723 tỷ đồng. Lợi nhuận trước thuế giảm 9,4%; phần lợi nhuận chia cho cổ đông không kiểm soát giảm từ 467 tỷ xuống khoảng 6 tỷ đồng.", "chart_title": "Quý 3/2026 so với quý 3/2025", "chart_sub": "Mức thay đổi so với cùng kỳ, theo dữ liệu SSI", "rows": [{"sym": "DT thuần", "sub": "13.754 tỷ", "val": 20.1, "label": "−20,1%"}, {"sym": "LN mẹ", "sub": "2.723 tỷ", "val": 11.8, "label": "+11,8%"}, {"sym": "LNTT", "sub": "3.056 tỷ", "val": 9.4, "label": "−9,4%"}, {"sym": "LN gộp", "sub": "4.264 tỷ", "val": 34.6, "label": "−34,6%"}]}, {"headline": "Lợi nhuận cổ đông mẹ quý 3/2026 cao nhất trong 8 quý gần đây", "body": "Lợi nhuận thuộc cổ đông công ty mẹ đạt 2.723 tỷ đồng, cao nhất kể từ quý 4/2024 trong dữ liệu SSI. Lũy kế 9 tháng 2026 đạt 7.778 tỷ đồng, tăng 13,3% dù doanh thu 9 tháng giảm 19,8%.", "chart_title": "Lợi nhuận cổ đông công ty mẹ theo quý", "chart_sub": "Đơn vị: tỷ đồng, theo dữ liệu SSI", "rows": [{"sym": "Q3/2026", "sub": "", "val": 2723, "label": "2.723"}, {"sym": "Q2/2026", "sub": "", "val": 2568, "label": "2.568"}, {"sym": "Q1/2026", "sub": "", "val": 2487, "label": "2.487"}, {"sym": "Q4/2025", "sub": "", "val": 2510, "label": "2.510"}, {"sym": "Q3/2025", "sub": "", "val": 2435, "label": "2.435"}, {"sym": "Q2/2025", "sub": "", "val": 2257, "label": "2.257"}]}, {"headline": "P/E của FPT giảm từ 12,4 lần xuống khoảng 8,6 lần trong năm 2026", "body": "Với giá đóng cửa 46.950 đồng (18/11) và EPS 12 tháng gần nhất 5.479 đồng, P/E của FPT khoảng 8,6 lần. ROE 12 tháng đạt 26%, biên lợi nhuận ròng 17,9%, tổng nợ phải trả bằng 0,71 lần vốn chủ sở hữu.", "chart_title": "P/E của FPT tại các kỳ báo cáo 2026", "chart_sub": "Đơn vị: lần, theo dữ liệu SSI", "rows": [{"sym": "Q1/2026", "sub": "", "val": 12.36, "label": "12,4"}, {"sym": "Q2/2026", "sub": "", "val": 10.72, "label": "10,7"}, {"sym": "Q3/2026", "sub": "", "val": 8.85, "label": "8,9"}, {"sym": "18/11", "sub": "Giá 46.950 đ", "val": 8.57, "label": "≈8,6"}]}, {"headline": "SSI Research chấm FPT 68/100 điểm cơ bản, nhưng chỉ 6/100 điểm kỹ thuật", "body": "Điểm phân tích cơ bản (FA) của FPT đạt 68/100, xếp 5 sao. Điểm kỹ thuật (TA) chỉ 6/100, cho thấy xu hướng giá đang yếu; cổ phiếu cũng vừa bị khối ngoại bán ròng 2 phiên liên tiếp. Điểm của SSI là thứ hạng tương đối, không phải khuyến nghị.", "chart_title": "Điểm đánh giá của SSI Research", "chart_sub": "Thang 100, xếp hạng tương đối trong nhóm cổ phiếu được chấm", "rows": [{"sym": "FA", "sub": "Phân tích cơ bản", "val": 68, "label": "68/100"}, {"sym": "KQKD", "sub": "Kết quả kinh doanh", "val": 11, "label": "11/100"}, {"sym": "TA", "sub": "Phân tích kỹ thuật", "val": 6, "label": "6/100"}]}]}
+{
+ "date": "19/11/2026",
+ "tag": "FPT",
+ "source": "Nguồn: SSI · BCTC quý 3/2026",
+ "slides": [
+  {
+   "headline": "FPT: doanh thu giảm 20%, lợi nhuận cổ đông mẹ vẫn tăng gần 12%",
+   "body": "Quý 3/2026, FPT đạt 13.754 tỷ đồng doanh thu thuần (−20,1% so với cùng kỳ) nhưng lợi nhuận thuộc cổ đông công ty mẹ tăng 11,8% lên 2.723 tỷ đồng. Lợi nhuận trước thuế giảm 9,4%; phần lợi nhuận chia cho cổ đông không kiểm soát giảm từ 467 tỷ xuống khoảng 6 tỷ đồng.",
+   "chart_title": "Quý 3/2026 so với quý 3/2025",
+   "chart_sub": "Mức thay đổi so với cùng kỳ, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "DT thuần",
+     "sub": "13.754 tỷ",
+     "val": 20.1,
+     "label": "−20,1%"
+    },
+    {
+     "sym": "LN mẹ",
+     "sub": "2.723 tỷ",
+     "val": 11.8,
+     "label": "+11,8%"
+    },
+    {
+     "sym": "LNTT",
+     "sub": "3.056 tỷ",
+     "val": 9.4,
+     "label": "−9,4%"
+    },
+    {
+     "sym": "LN gộp",
+     "sub": "4.264 tỷ",
+     "val": 34.6,
+     "label": "−34,6%"
+    }
+   ]
+  },
+  {
+   "headline": "Lợi nhuận cổ đông mẹ quý 3/2026 cao nhất trong 8 quý gần đây",
+   "body": "Lợi nhuận thuộc cổ đông công ty mẹ đạt 2.723 tỷ đồng, cao nhất kể từ quý 4/2024 trong dữ liệu SSI. Lũy kế 9 tháng 2026 đạt 7.778 tỷ đồng, tăng 13,3% dù doanh thu 9 tháng giảm 19,8%.",
+   "chart_title": "Lợi nhuận cổ đông công ty mẹ theo quý",
+   "chart_sub": "Đơn vị: tỷ đồng, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "Q3/2026",
+     "sub": "",
+     "val": 2723,
+     "label": "2.723"
+    },
+    {
+     "sym": "Q2/2026",
+     "sub": "",
+     "val": 2568,
+     "label": "2.568"
+    },
+    {
+     "sym": "Q1/2026",
+     "sub": "",
+     "val": 2487,
+     "label": "2.487"
+    },
+    {
+     "sym": "Q4/2025",
+     "sub": "",
+     "val": 2510,
+     "label": "2.510"
+    },
+    {
+     "sym": "Q3/2025",
+     "sub": "",
+     "val": 2435,
+     "label": "2.435"
+    },
+    {
+     "sym": "Q2/2025",
+     "sub": "",
+     "val": 2257,
+     "label": "2.257"
+    }
+   ]
+  },
+  {
+   "headline": "P/E của FPT giảm từ 12,4 lần xuống khoảng 8,6 lần trong năm 2026",
+   "body": "Với giá đóng cửa 46.950 đồng (18/11) và EPS 12 tháng gần nhất 5.479 đồng, P/E của FPT khoảng 8,6 lần. ROE 12 tháng đạt 26%, biên lợi nhuận ròng 17,9%, tổng nợ phải trả bằng 0,71 lần vốn chủ sở hữu.",
+   "chart_title": "P/E của FPT tại các kỳ báo cáo 2026",
+   "chart_sub": "Đơn vị: lần, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "Q1/2026",
+     "sub": "",
+     "val": 12.36,
+     "label": "12,4"
+    },
+    {
+     "sym": "Q2/2026",
+     "sub": "",
+     "val": 10.72,
+     "label": "10,7"
+    },
+    {
+     "sym": "Q3/2026",
+     "sub": "",
+     "val": 8.85,
+     "label": "8,9"
+    },
+    {
+     "sym": "18/11",
+     "sub": "Giá 46.950 đ",
+     "val": 8.57,
+     "label": "≈8,6"
+    }
+   ]
+  },
+  {
+   "headline": "SSI Research chấm FPT 68/100 điểm cơ bản, nhưng chỉ 6/100 điểm kỹ thuật",
+   "body": "Điểm phân tích cơ bản (FA) của FPT đạt 68/100, xếp 5 sao. Điểm kỹ thuật (TA) chỉ 6/100, cho thấy xu hướng giá đang yếu; cổ phiếu cũng vừa bị khối ngoại bán ròng 2 phiên liên tiếp. Điểm của SSI là thứ hạng tương đối, không phải khuyến nghị.",
+   "chart_title": "Điểm đánh giá của SSI Research",
+   "chart_sub": "Thang 100, xếp hạng tương đối trong nhóm cổ phiếu được chấm",
+   "rows": [
+    {
+     "sym": "FA",
+     "sub": "Phân tích cơ bản",
+     "val": 68,
+     "label": "68/100"
+    },
+    {
+     "sym": "KQKD",
+     "sub": "Kết quả kinh doanh",
+     "val": 11,
+     "label": "11/100"
+    },
+    {
+     "sym": "TA",
+     "sub": "Phân tích kỹ thuật",
+     "val": 6,
+     "label": "6/100"
+    }
+   ]
+  }
+ ],
+ "kind": "sang"
+}

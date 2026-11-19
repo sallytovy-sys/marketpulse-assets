@@ -6,3 +6,8 @@
 2. Tạo file dữ liệu theo mẫu `tools/sample_data.json` (4 slide: tổng quan, top tăng, top giảm, khối ngoại).
 3. `python3 tools/render.py <data.json> <thư mục ra>` (cần playwright + /usr/bin/google-chrome).
 Ảnh công khai: `https://raw.githubusercontent.com/sallytovy-sys/marketpulse-assets/main/<YYYY-MM-DD>/<file>.png`
+
+## QUY ĐỊNH MÀU (bắt buộc, chỉ đổi khi chủ kênh yêu cầu)
+- Bài 7h45 "Doanh nghiệp sáng nay": XANH DƯƠNG #1D5FD1 -> chạy `render.py ... --kind sang`
+- Bài 16h05 "Thị trường phiên": CAM #E85D00 -> chạy `render.py ... --kind chieu`
+- Màu do render.py quyết định theo --kind, mọi trường "accent" trong data.json đều bị bỏ qua.

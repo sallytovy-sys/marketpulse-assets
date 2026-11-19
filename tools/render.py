@@ -3,7 +3,20 @@ HERE=os.path.dirname(os.path.abspath(__file__))
 ICON=os.path.join(HERE,'icon.png')
 FONT=os.path.expanduser('~/.fonts/InterTight.ttf')
 from playwright.async_api import async_playwright
-D=json.load(open(sys.argv[1])); OUT=os.path.abspath(sys.argv[2] if len(sys.argv)>2 else '.')
+# Usage: python3 render.py <data.json> <out_dir> --kind sang|chieu
+# MÀU CỐ ĐỊNH THEO LOẠI BÀI (không lấy từ data.json):
+#   sang  = Doanh nghiệp sáng nay 7h45  -> xanh dương #1D5FD1
+#   chieu = Thị trường phiên 16h05     -> cam #E85D00
+COLORS={'sang':'#1D5FD1','chieu':'#E85D00'}
+args=[a for a in sys.argv[1:] if not a.startswith('--kind')]
+kind=None
+for i,a in enumerate(sys.argv):
+    if a.startswith('--kind='): kind=a.split('=',1)[1]
+    elif a=='--kind' and i+1<len(sys.argv): kind=sys.argv[i+1]
+if kind in COLORS: args=[a for a in args if a!=kind]
+if kind not in COLORS: sys.exit('Thiếu hoặc sai --kind (sang|chieu). sang = xanh dương, chieu = cam.')
+D=json.load(open(args[0])); OUT=os.path.abspath(args[1] if len(args)>1 else '.')
+D['accent']=COLORS[kind]
 ACC=D.get('accent','#E85D00')
 def bars(rows):
     mx=max(abs(r['val']) for r in rows) or 1; out=''

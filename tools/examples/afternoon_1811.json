@@ -1,18 +1,159 @@
-{"date":"18/11/2026","tag":"1811","slides":[
-{"headline":"VN-Index mất gần 24 điểm, lùi về sát mốc 1.700",
- "body":"VN-Index giảm 23,71 điểm (−1,37%) về 1.703,01 điểm, có lúc xuống 1.692 điểm trong phiên. Khối lượng khớp tăng lên khoảng 530,5 triệu cổ phiếu, 22/24 mã thanh khoản lớn nhất HOSE giảm giá.",
- "chart_title":"Diễn biến chỉ số và cổ phiếu trụ","chart_sub":"Mức thay đổi trong phiên 18/11, theo dữ liệu SSI",
- "rows":[{"sym":"FPT","sub":"−1.550 đ","val":3.20,"label":"−3,20%"},{"sym":"HPG","sub":"−550 đ","val":2.62,"label":"−2,62%"},{"sym":"VCB","sub":"−1.300 đ","val":2.50,"label":"−2,50%"},{"sym":"VN-Index","sub":"−23,71 điểm","val":1.37,"label":"−1,37%"},{"sym":"VIC","sub":"−3.000 đ","val":1.21,"label":"−1,21%"}]},
-{"headline":"Chỉ 2 trong 24 mã lớn tăng giá: KDH và POW",
- "body":"KDH tăng 3,19%, phiên tăng thứ hai liên tiếp, và được khối ngoại mua ròng 41,6 tỷ đồng. POW tăng 1,13%. Nhóm ngân hàng ACB, HDB, MBB giảm nhẹ hơn mặt bằng chung.",
- "chart_title":"5 cổ phiếu diễn biến tốt nhất nhóm thanh khoản cao","chart_sub":"Mức thay đổi giá trong phiên 18/11, theo dữ liệu SSI",
- "rows":[{"sym":"KDH","sub":"+500 đ","val":3.19,"label":"+3,19%"},{"sym":"POW","sub":"+150 đ","val":1.13,"label":"+1,13%"},{"sym":"ACB","sub":"−100 đ","val":0.49,"label":"−0,49%"},{"sym":"HDB","sub":"−150 đ","val":0.67,"label":"−0,67%"},{"sym":"MBB","sub":"−150 đ","val":0.79,"label":"−0,79%"}]},
-{"headline":"PVT giảm 4,04%, FPT mất 3,2% với thanh khoản hơn 760 tỷ đồng",
- "body":"PVT, SHB, FPT, VPB và GEX giảm mạnh nhất trong 24 mã thanh khoản cao trên HOSE. FPT dẫn đầu thị trường về giá trị khớp lệnh với khoảng 764,6 tỷ đồng.",
- "chart_title":"5 cổ phiếu giảm mạnh nhất nhóm thanh khoản cao","chart_sub":"Mức giảm giá trong phiên 18/11, theo dữ liệu SSI",
- "rows":[{"sym":"PVT","sub":"−800 đ","val":4.04,"label":"−4,04%"},{"sym":"SHB","sub":"−350 đ","val":3.24,"label":"−3,24%"},{"sym":"FPT","sub":"−1.550 đ","val":3.20,"label":"−3,20%"},{"sym":"VPB","sub":"−600 đ","val":2.78,"label":"−2,78%"},{"sym":"GEX","sub":"−550 đ","val":2.68,"label":"−2,68%"}]},
-{"headline":"Khối ngoại bán ròng hơn 538 tỷ đồng tại FPT, VIC, VCB và HPG",
- "body":"FPT bị bán ròng 225,7 tỷ đồng, phiên thứ hai liên tiếp dẫn đầu chiều bán. Ở chiều ngược lại, KDH được mua ròng 41,6 tỷ đồng. Số liệu tính trên các mã lớn marketpulse theo dõi.",
- "chart_title":"Giá trị mua/bán ròng của khối ngoại","chart_sub":"Đơn vị: tỷ đồng, phiên 18/11, theo dữ liệu SSI",
- "rows":[{"sym":"FPT","sub":"Bán ròng","val":225.7,"label":"−225,7"},{"sym":"VIC","sub":"Bán ròng","val":185.9,"label":"−185,9"},{"sym":"VCB","sub":"Bán ròng","val":75.7,"label":"−75,7"},{"sym":"HPG","sub":"Bán ròng","val":51.7,"label":"−51,7"},{"sym":"KDH","sub":"Mua ròng","val":41.6,"label":"+41,6"}]}
-]}
+{
+ "date": "18/11/2026",
+ "tag": "1811",
+ "slides": [
+  {
+   "headline": "VN-Index mất gần 24 điểm, lùi về sát mốc 1.700",
+   "body": "VN-Index giảm 23,71 điểm (−1,37%) về 1.703,01 điểm, có lúc xuống 1.692 điểm trong phiên. Khối lượng khớp tăng lên khoảng 530,5 triệu cổ phiếu, 22/24 mã thanh khoản lớn nhất HOSE giảm giá.",
+   "chart_title": "Diễn biến chỉ số và cổ phiếu trụ",
+   "chart_sub": "Mức thay đổi trong phiên 18/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "FPT",
+     "sub": "−1.550 đ",
+     "val": 3.2,
+     "label": "−3,20%"
+    },
+    {
+     "sym": "HPG",
+     "sub": "−550 đ",
+     "val": 2.62,
+     "label": "−2,62%"
+    },
+    {
+     "sym": "VCB",
+     "sub": "−1.300 đ",
+     "val": 2.5,
+     "label": "−2,50%"
+    },
+    {
+     "sym": "VN-Index",
+     "sub": "−23,71 điểm",
+     "val": 1.37,
+     "label": "−1,37%"
+    },
+    {
+     "sym": "VIC",
+     "sub": "−3.000 đ",
+     "val": 1.21,
+     "label": "−1,21%"
+    }
+   ]
+  },
+  {
+   "headline": "Chỉ 2 trong 24 mã lớn tăng giá: KDH và POW",
+   "body": "KDH tăng 3,19%, phiên tăng thứ hai liên tiếp, và được khối ngoại mua ròng 41,6 tỷ đồng. POW tăng 1,13%. Nhóm ngân hàng ACB, HDB, MBB giảm nhẹ hơn mặt bằng chung.",
+   "chart_title": "5 cổ phiếu diễn biến tốt nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức thay đổi giá trong phiên 18/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "KDH",
+     "sub": "+500 đ",
+     "val": 3.19,
+     "label": "+3,19%"
+    },
+    {
+     "sym": "POW",
+     "sub": "+150 đ",
+     "val": 1.13,
+     "label": "+1,13%"
+    },
+    {
+     "sym": "ACB",
+     "sub": "−100 đ",
+     "val": 0.49,
+     "label": "−0,49%"
+    },
+    {
+     "sym": "HDB",
+     "sub": "−150 đ",
+     "val": 0.67,
+     "label": "−0,67%"
+    },
+    {
+     "sym": "MBB",
+     "sub": "−150 đ",
+     "val": 0.79,
+     "label": "−0,79%"
+    }
+   ]
+  },
+  {
+   "headline": "PVT giảm 4,04%, FPT mất 3,2% với thanh khoản hơn 760 tỷ đồng",
+   "body": "PVT, SHB, FPT, VPB và GEX giảm mạnh nhất trong 24 mã thanh khoản cao trên HOSE. FPT dẫn đầu thị trường về giá trị khớp lệnh với khoảng 764,6 tỷ đồng.",
+   "chart_title": "5 cổ phiếu giảm mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức giảm giá trong phiên 18/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "PVT",
+     "sub": "−800 đ",
+     "val": 4.04,
+     "label": "−4,04%"
+    },
+    {
+     "sym": "SHB",
+     "sub": "−350 đ",
+     "val": 3.24,
+     "label": "−3,24%"
+    },
+    {
+     "sym": "FPT",
+     "sub": "−1.550 đ",
+     "val": 3.2,
+     "label": "−3,20%"
+    },
+    {
+     "sym": "VPB",
+     "sub": "−600 đ",
+     "val": 2.78,
+     "label": "−2,78%"
+    },
+    {
+     "sym": "GEX",
+     "sub": "−550 đ",
+     "val": 2.68,
+     "label": "−2,68%"
+    }
+   ]
+  },
+  {
+   "headline": "Khối ngoại bán ròng hơn 538 tỷ đồng tại FPT, VIC, VCB và HPG",
+   "body": "FPT bị bán ròng 225,7 tỷ đồng, phiên thứ hai liên tiếp dẫn đầu chiều bán. Ở chiều ngược lại, KDH được mua ròng 41,6 tỷ đồng. Số liệu tính trên các mã lớn marketpulse theo dõi.",
+   "chart_title": "Giá trị mua/bán ròng của khối ngoại",
+   "chart_sub": "Đơn vị: tỷ đồng, phiên 18/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "FPT",
+     "sub": "Bán ròng",
+     "val": 225.7,
+     "label": "−225,7"
+    },
+    {
+     "sym": "VIC",
+     "sub": "Bán ròng",
+     "val": 185.9,
+     "label": "−185,9"
+    },
+    {
+     "sym": "VCB",
+     "sub": "Bán ròng",
+     "val": 75.7,
+     "label": "−75,7"
+    },
+    {
+     "sym": "HPG",
+     "sub": "Bán ròng",
+     "val": 51.7,
+     "label": "−51,7"
+    },
+    {
+     "sym": "KDH",
+     "sub": "Mua ròng",
+     "val": 41.6,
+     "label": "+41,6"
+    }
+   ]
+  }
+ ],
+ "kind": "chieu"
+}
