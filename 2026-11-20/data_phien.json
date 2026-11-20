@@ -1,0 +1,59 @@
+{
+ "date": "20/11/2026",
+ "tag": "2011",
+ "kind": "chieu",
+ "slides": [
+  {
+   "headline": "VN-Index giảm phiên thứ 4 liên tiếp nhưng hồi hơn 22 điểm từ đáy",
+   "body": "VN-Index giảm nhẹ 0,83 điểm (−0,05%) về 1.688,79 điểm, sau khi có lúc xuống 1.666,41 điểm và đóng cửa đúng mức cao nhất phiên. Khối lượng khớp khoảng 522 triệu cổ phiếu; 9/24 mã thanh khoản lớn nhất HOSE tăng giá, 12 mã giảm.",
+   "chart_title": "Diễn biến chỉ số và cổ phiếu trụ",
+   "chart_sub": "Mức thay đổi trong phiên 20/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "TCB", "sub": "+600 đ", "val": 2.91, "label": "+2,91%"},
+    {"sym": "FPT", "sub": "−700 đ", "val": 1.53, "label": "−1,53%"},
+    {"sym": "VCB", "sub": "−600 đ", "val": 1.18, "label": "−1,18%"},
+    {"sym": "VIC", "sub": "+1.900 đ", "val": 0.79, "label": "+0,79%"},
+    {"sym": "VN-Index", "sub": "−0,83 điểm", "val": 0.05, "label": "−0,05%"}
+   ]
+  },
+  {
+   "headline": "TCH dẫn đầu đà tăng với +4,91%, VND và SSI cùng bứt lên",
+   "body": "TCH, VND, TCB, STB và SSI tăng mạnh nhất trong 24 mã thanh khoản cao trên HOSE. SSI đóng cửa ở mức cao nhất phiên 20.000 đồng với giá trị khớp hơn 502 tỷ đồng.",
+   "chart_title": "5 cổ phiếu tăng mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức thay đổi giá trong phiên 20/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "TCH", "sub": "+650 đ", "val": 4.91, "label": "+4,91%"},
+    {"sym": "VND", "sub": "+550 đ", "val": 3.89, "label": "+3,89%"},
+    {"sym": "TCB", "sub": "+600 đ", "val": 2.91, "label": "+2,91%"},
+    {"sym": "STB", "sub": "+1.800 đ", "val": 2.61, "label": "+2,61%"},
+    {"sym": "SSI", "sub": "+450 đ", "val": 2.3, "label": "+2,30%"}
+   ]
+  },
+  {
+   "headline": "NVL giảm 3,11%, ngân hàng MBB, ACB, VPB chịu áp lực",
+   "body": "NVL, KDH, MBB, ACB và VPB giảm mạnh nhất trong 24 mã thanh khoản cao. FPT giảm 1,53% nhưng vẫn dẫn đầu HOSE về giá trị khớp lệnh với khoảng 707,2 tỷ đồng.",
+   "chart_title": "5 cổ phiếu giảm mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức giảm giá trong phiên 20/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "NVL", "sub": "−320 đ", "val": 3.11, "label": "−3,11%"},
+    {"sym": "KDH", "sub": "−400 đ", "val": 2.53, "label": "−2,53%"},
+    {"sym": "MBB", "sub": "−450 đ", "val": 2.41, "label": "−2,41%"},
+    {"sym": "ACB", "sub": "−450 đ", "val": 2.24, "label": "−2,24%"},
+    {"sym": "VPB", "sub": "−400 đ", "val": 1.91, "label": "−1,91%"}
+   ]
+  },
+  {
+   "headline": "Khối ngoại bán ròng gần 490 tỷ đồng, FPT dẫn đầu chiều bán",
+   "body": "FPT bị bán ròng 157,0 tỷ đồng, tiếp theo là HDB với 103,9 tỷ đồng. Ở chiều ngược lại, TCB được mua ròng 15,8 tỷ đồng. Số liệu tính trên các mã lớn marketpulse theo dõi.",
+   "chart_title": "Giá trị mua/bán ròng của khối ngoại",
+   "chart_sub": "Đơn vị: tỷ đồng, phiên 20/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "FPT", "sub": "Bán ròng", "val": 157.0, "label": "−157,0"},
+    {"sym": "HDB", "sub": "Bán ròng", "val": 103.9, "label": "−103,9"},
+    {"sym": "SHB", "sub": "Bán ròng", "val": 49.9, "label": "−49,9"},
+    {"sym": "STB", "sub": "Bán ròng", "val": 46.6, "label": "−46,6"},
+    {"sym": "TCB", "sub": "Mua ròng", "val": 15.8, "label": "+15,8"}
+   ]
+  }
+ ]
+}
