@@ -15,7 +15,7 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
   - Sáng: `--kind sang` (xanh dương), Chiều: `--kind chieu` (cam), số liệu lấy đúng từ bài feed cùng ngày.
   - F0: `--kind f0` từ ảnh bìa `tapN_1.png`, lưu `chuyen-f0/tapN/story.jpg`.
 - Buffer: Instagram metadata {"instagram":{"type":"story","shouldShareToFeed":false}}, Facebook {"facebook":{"type":"story"}}, không caption.
-- Story Instagram đôi khi báo "unknown error": thử lại 1 lần sau 3 phút; vẫn lỗi thì báo Sally (không đăng bản khác thiết kế).
+- ĐĂNG 1 LẦN DUY NHẤT (Sally yêu cầu 20/11/2026): mỗi bài feed và story chỉ create_post 1 lần trên mỗi kênh. Lỗi (kể cả "flagged as potential spam", "unknown error") thì KHÔNG đăng lại, không tạo bài trùng; báo Sally ngay. Bài feed của kênh nào lỗi thì story của kênh đó lưu nháp.
 
 ## 2. Quy tắc thay đổi: PHẢI XÁC NHẬN TRƯỚC KHI TỰ ĐỘNG ĐĂNG
 - Mọi thay đổi về thiết kế (màu, font, bố cục, số slide, kích thước), cấu trúc nội dung, mẫu caption, giờ đăng hay kênh đăng
