@@ -1,0 +1,60 @@
+{
+ "date": "20/11/2026",
+ "tag": "NGANHANG",
+ "source": "Nguồn: SSI · BCTC quý 3/2026",
+ "kind": "sang",
+ "slides": [
+  {
+   "headline": "5 ngân hàng giao dịch sôi động nhất: ROE chênh nhau từ 15,2% đến 22,3%",
+   "body": "Trong hai phiên 18–19/11, VPB, VCB, TCB, MBB và HDB nằm trong nhóm 15 mã có giá trị giao dịch lớn nhất HOSE. Tính đến quý 3/2026, HDB dẫn đầu về ROE với 22,3%, MBB đạt 21,2%; TCB thấp nhất nhóm với 15,2%.",
+   "chart_title": "ROE 12 tháng gần nhất (quý 3/2026)",
+   "chart_sub": "Lợi nhuận trên vốn chủ sở hữu, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "HDB", "sub": "HDBank", "val": 22.3, "label": "22,3%"},
+    {"sym": "MBB", "sub": "MBBank", "val": 21.2, "label": "21,2%"},
+    {"sym": "VCB", "sub": "Vietcombank", "val": 17.3, "label": "17,3%"},
+    {"sym": "VPB", "sub": "VPBank", "val": 16.5, "label": "16,5%"},
+    {"sym": "TCB", "sub": "Techcombank", "val": 15.2, "label": "15,2%"}
+   ]
+  },
+  {
+   "headline": "TCB và VPB dẫn đầu ROA, nhưng ROE lại xếp cuối nhóm",
+   "body": "ROA của TCB đạt 2,30% và VPB 2,17%, cao nhất trong 5 ngân hàng. Tuy vậy, tổng nợ phải trả của hai ngân hàng chỉ bằng 5,7 và 7,1 lần vốn chủ, thấp hơn mức 10,2 lần của MBB và 11,1 lần của HDB, nên ROE thấp hơn.",
+   "chart_title": "ROA 12 tháng gần nhất (quý 3/2026)",
+   "chart_sub": "Lợi nhuận trên tổng tài sản; dòng phụ: nợ phải trả/vốn chủ",
+   "rows": [
+    {"sym": "TCB", "sub": "Nợ/VCSH 5,7x", "val": 2.30, "label": "2,30%"},
+    {"sym": "VPB", "sub": "Nợ/VCSH 7,1x", "val": 2.17, "label": "2,17%"},
+    {"sym": "MBB", "sub": "Nợ/VCSH 10,2x", "val": 1.92, "label": "1,92%"},
+    {"sym": "HDB", "sub": "Nợ/VCSH 11,1x", "val": 1.88, "label": "1,88%"},
+    {"sym": "VCB", "sub": "Nợ/VCSH 9,6x", "val": 1.61, "label": "1,61%"}
+   ]
+  },
+  {
+   "headline": "P/B nhóm dao động từ 1,1 đến 1,7 lần; VCB có P/E cao nhất 10,2 lần",
+   "body": "Tại kỳ báo cáo quý 3/2026, VCB và HDB có P/B cao nhất nhóm, lần lượt 1,67 và 1,61 lần. VPB có P/B thấp nhất với 1,12 lần; MBB có P/E thấp nhất với 5,3 lần.",
+   "chart_title": "P/B tại kỳ báo cáo quý 3/2026",
+   "chart_sub": "Đơn vị: lần; dòng phụ: P/E cùng kỳ, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "VCB", "sub": "P/E 10,2", "val": 1.67, "label": "1,67"},
+    {"sym": "HDB", "sub": "P/E 7,5", "val": 1.61, "label": "1,61"},
+    {"sym": "MBB", "sub": "P/E 5,3", "val": 1.20, "label": "1,20"},
+    {"sym": "TCB", "sub": "P/E 7,6", "val": 1.17, "label": "1,17"},
+    {"sym": "VPB", "sub": "P/E 6,7", "val": 1.12, "label": "1,12"}
+   ]
+  },
+  {
+   "headline": "SSI Research: MBB có điểm cơ bản cao nhất nhóm, 80/100",
+   "body": "Điểm phân tích cơ bản (FA) của MBB đạt 80/100, tiếp theo là HDB 72 và VCB 68. Về kỹ thuật (TA), HDB đạt 95/100 trong khi VCB chỉ 30/100. Điểm của SSI là thứ hạng tương đối, không phải khuyến nghị.",
+   "chart_title": "Điểm phân tích cơ bản (FA) của SSI Research",
+   "chart_sub": "Thang 100; dòng phụ: điểm kỹ thuật (TA)",
+   "rows": [
+    {"sym": "MBB", "sub": "TA 78", "val": 80, "label": "80/100"},
+    {"sym": "HDB", "sub": "TA 95", "val": 72, "label": "72/100"},
+    {"sym": "VCB", "sub": "TA 30", "val": 68, "label": "68/100"},
+    {"sym": "VPB", "sub": "TA 36", "val": 66, "label": "66/100"},
+    {"sym": "TCB", "sub": "TA 55", "val": 64, "label": "64/100"}
+   ]
+  }
+ ]
+}
