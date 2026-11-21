@@ -2,6 +2,10 @@
 
 Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đổi các quy tắc này.
 
+## 0. Lưu trữ và Buffer (Sally chốt 21/11/2026) – chi tiết trong OPS.md
+- Bài được chuẩn bị trước 1–2 ngày (riêng bài phiên chiều và tin tối dựng trong ngày) và lưu trong repo này.
+- Buffer chỉ nhận bài đúng lúc đăng (shareNow); KHÔNG hẹn giờ trước trên Buffer. Story đăng 5 phút sau bài feed (đợi rồi shareNow). Giữ gói Buffer Free.
+
 ## 1. Thiết kế đã duyệt (KHÓA)
 | Giờ | Bài | Màu nhấn | Template | Lệnh dựng |
 |---|---|---|---|---|
