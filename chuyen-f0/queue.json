@@ -50,7 +50,7 @@
   {
    "tap": 6,
    "date": "2026-11-24",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 6: Giảm 50% rồi, tôi tưởng là đáy. Hóa ra chỉ là giữa dốc",
     "Cổ phiếu X giảm từ 100.000đ xuống 50.000đ",
@@ -65,7 +65,7 @@
   {
    "tap": 7,
    "date": "2026-11-25",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 7: 3 phiên tím trần, tôi mua ở phiên thứ 4 và đứng đỉnh",
     "Nhóm chat khoe lãi khi cổ phiếu tăng trần",
@@ -80,7 +80,7 @@
   {
    "tap": 8,
    "date": "2026-11-26",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 8: Tôi gồng lỗ từ −10% đến −50% chỉ vì chờ về bờ",
     "Bình mua giá 50.000đ, tuần sau còn 45.000đ",
@@ -95,7 +95,7 @@
   {
    "tap": 9,
    "date": "2026-11-27",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 9: Xem 1 video TikTok, tôi mua ngay. Người quay đã bán",
     "Video kèo x3 hơn 1 triệu lượt xem",
@@ -110,7 +110,7 @@
   {
    "tap": 10,
    "date": "2026-11-28",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 10: Lướt sóng 50 lệnh 1 tháng, tiền lãi chảy vào phí",
     "Phúc mua bán 25 vòng mỗi tháng với 100 triệu",
@@ -125,7 +125,7 @@
   {
    "tap": 11,
    "date": "2026-11-29",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 11: Rút sổ tiết kiệm mua cổ phiếu, đúng lúc cần tiền thì đang lỗ",
     "Chị Thu so sánh lãi tiết kiệm và cổ phiếu",
@@ -140,7 +140,7 @@
   {
    "tap": 12,
    "date": "2026-11-30",
-   "status": "cho_duyet",
+   "status": "pending",
    "alt": [
     "Chuyện F0 tập 12: Công ty báo lãi kỷ lục, tôi mua vào và lỗ 15%",
     "Tin công ty K báo lãi quý kỷ lục, tăng 80%",
