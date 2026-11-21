@@ -4,6 +4,7 @@
     story.json: {"big":"FPT", "sub":"Doanh thu giam 20%,<br>loi nhuan ...",
                  "rows":[["Doanh thu thuan Q3","-20,1%","down"],["LN co dong me","+11,8%","up"],["P/E","8,6 lan","flat"]],
                  "date":"19/11"}   (rows: 3-4 dong; label tu dong theo kind)
+  Tin toi:         python3 tools/story.py <story.json> <out.jpg> --kind toi  (json: date, big, sub, rows)
   Chuyen F0:       python3 tools/story.py <tapN_1.png> <out.jpg> --kind f0
 Mau KHOA theo kind: sang=#1D5FD1, chieu=#E85D00 (khong doc accent tu data).
 """
@@ -11,7 +12,7 @@ import sys, os, json, asyncio, base64, io
 from PIL import Image
 HERE=os.path.dirname(os.path.abspath(__file__)); FD=os.path.expanduser('~/.fonts')
 COLORS={'sang':'#1D5FD1','chieu':'#E85D00'}
-CTA={'sang':'👆 Xem phân tích đầy đủ<br>trong bài mới nhất','chieu':'👆 Xem đầy đủ trong bài mới nhất','f0':'👆 Đọc trọn câu chuyện<br>trong bài mới nhất'}
+CTA={'toi':'👆 Xem đầy đủ trong bài mới nhất','sang':'👆 Xem phân tích đầy đủ<br>trong bài mới nhất','chieu':'👆 Xem đầy đủ trong bài mới nhất','f0':'👆 Đọc trọn câu chuyện<br>trong bài mới nhất'}
 RC={'up':'#16A34A','down':'#D93025','flat':'#111'}
 def b64(p): return base64.b64encode(open(p,'rb').read()).decode()
 FONT=f"""@font-face{{font-family:'Inter Tight';src:url('file://{FD}/InterTight.ttf');font-weight:100 900}}
@@ -31,6 +32,19 @@ def news(kind,d):
 <div style="margin-top:50px">{rows}</div>
 <div style="position:absolute;left:80px;right:80px;bottom:380px;border:4px dashed {acc};border-radius:28px;padding:30px;text-align:center;font-weight:700;font-size:40px;color:{acc}">{CTA[kind]}</div>
 <div style="position:absolute;left:80px;right:80px;bottom:300px;text-align:center;font-size:26px;color:#8A8A92">Nguồn: SSI · Không phải khuyến nghị đầu tư</div>
+</div><script>const b=document.getElementById('big');let s=150;while(b.scrollWidth>920&&s>70){{s-=6;b.style.fontSize=s+'px'}}</script></body></html>'''
+def toi(d):
+    acc='#E5484D'
+    rows=''.join(f'<div style="display:flex;justify-content:space-between;align-items:center;padding:22px 0;border-bottom:2px solid #262A33;font-size:40px;font-weight:700"><span>{a}</span><span style="color:{ {"up":"#22C55E","down":acc}.get(c,"#fff") }">{b}</span></div>' for a,b,c in d['rows'])
+    return f'''<!doctype html><html><head><meta charset="utf-8"><style>{FONT}</style></head><body>
+<div style="width:1080px;height:1920px;background:#0F1115;font-family:'Inter Tight';color:#fff;padding:260px 80px 0;position:relative">
+<div style="display:flex;justify-content:space-between;align-items:center"><div style="border:3px solid {acc};color:{acc};border-radius:999px;padding:10px 32px;font-weight:600;font-size:34px">@MarketPulse.Vn</div><img src="{ICON}" style="width:84px;height:84px;border-radius:20px"></div>
+<div style="margin-top:70px;background:{acc};color:#fff;display:inline-block;padding:14px 28px;border-radius:14px;font-weight:800;font-size:38px;letter-spacing:1px">🔥 TIN NÓNG TỐI NAY · {d['date']}</div>
+<div id="big" style="margin-top:40px;font-weight:800;font-size:150px;letter-spacing:-6px;line-height:.95;color:{acc};white-space:nowrap">{d['big']}</div>
+<div style="margin-top:24px;font-weight:700;font-size:52px;line-height:1.2">{d['sub']}</div>
+<div style="margin-top:50px">{rows}</div>
+<div style="position:absolute;left:80px;right:80px;bottom:380px;border:4px dashed {acc};border-radius:28px;padding:30px;text-align:center;font-weight:700;font-size:40px;color:{acc}">{CTA['toi']}</div>
+<div style="position:absolute;left:80px;right:80px;bottom:300px;text-align:center;font-size:26px;color:#9AA0AA">Tổng hợp từ thông tin công bố · Không phải khuyến nghị đầu tư</div>
 </div><script>const b=document.getElementById('big');let s=150;while(b.scrollWidth>920&&s>70){{s-=6;b.style.fontSize=s+'px'}}</script></body></html>'''
 def f0(cover):
     im=Image.open(cover).convert('RGB'); bg=im.getpixel((20,20))
@@ -57,6 +71,6 @@ if __name__=='__main__':
     a=sys.argv
     if '--kind' not in a: sys.exit('Thieu --kind sang|chieu|f0')
     kind=a[a.index('--kind')+1]; src,out=a[1],a[2]
-    if kind not in ('sang','chieu','f0'): sys.exit('kind sai')
-    html=f0(src) if kind=='f0' else news(kind,json.load(open(src)))
+    if kind not in ('sang','chieu','f0','toi'): sys.exit('kind sai')
+    html=f0(src) if kind=='f0' else (toi(json.load(open(src))) if kind=='toi' else news(kind,json.load(open(src))))
     asyncio.run(shot(html,out)); print('OK',out)

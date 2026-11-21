@@ -7,6 +7,7 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
 |---|---|---|---|---|
 | 7h45 T2–T6 | Doanh nghiệp sáng nay | XANH DƯƠNG #1D5FD1 | Trắng 1080×1080, Inter Tight, 4 slide | `tools/render.py ... --kind sang` |
 | 11h45 hằng ngày | Chuyện F0 | Tím #6A4CF5, nền kem | Truyện tranh 1080×1350, 6 slide | Chỉ đăng tập đã duyệt trong `chuyen-f0/queue.json` |
+| 19h00 T2–CN | 🔥 Tin nóng tối nay | ĐỎ #E5484D trên nền tối #0F1115 | 1080×1350, Inter Tight, 4–5 slide (cover / timeline / table / deals) | `tools/render_toi.py <data.json> <thư mục>` (mẫu tools/examples/toi_2111.json) |
 | 16h05 T2–T6 | Thị trường phiên | CAM #E85D00 | Trắng 1080×1080, Inter Tight, 4 slide | `tools/render.py ... --kind chieu` |
 
 ### Story sau mỗi bài (Sally duyệt 19/11/2026)
@@ -16,6 +17,11 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
   - F0: `--kind f0` từ ảnh bìa `tapN_1.png`, lưu `chuyen-f0/tapN/story.jpg`.
 - Buffer: Instagram metadata {"instagram":{"type":"story","shouldShareToFeed":false}}, Facebook {"facebook":{"type":"story"}}, không caption.
 - ĐĂNG 1 LẦN DUY NHẤT (Sally yêu cầu 20/11/2026): mỗi bài feed và story chỉ create_post 1 lần trên mỗi kênh. Lỗi (kể cả "flagged as potential spam", "unknown error") thì KHÔNG đăng lại, không tạo bài trùng; báo Sally ngay. Bài feed của kênh nào lỗi thì story của kênh đó lưu nháp.
+
+### Tin nóng tối nay (Sally duyệt 21/11/2026)
+- Chủ đề: mã/doanh nghiệp được báo tài chính nhắc nhiều nhất trong ngày; câu chuyện doanh nghiệp, lãnh đạo; giao dịch người nội bộ/cổ đông lớn ĐÃ ĐĂNG KÝ nhưng chưa thực hiện; sự kiện ảnh hưởng giá.
+- CHỈ dùng thông tin đã công bố chính thức (CBTT HoSE/HNX/UPCoM, cơ quan chức năng, doanh nghiệp) hoặc báo chí chính thống; ghi nguồn trên slide. Vụ án/tranh chấp: chỉ nêu đúng như cơ quan chức năng và doanh nghiệp công bố, ghi rõ "theo ...", không suy đoán, không kết luận thay cơ quan chức năng, không dùng từ xúc phạm. Không đăng tin đồn, không nêu thông tin đời tư không liên quan đến doanh nghiệp.
+- Không khuyến nghị mua/bán, không giá mục tiêu. Story: `tools/story.py --kind toi`, đăng 19h05.
 
 ## 2. Quy tắc thay đổi: PHẢI XÁC NHẬN TRƯỚC KHI TỰ ĐỘNG ĐĂNG
 - Mọi thay đổi về thiết kế (màu, font, bố cục, số slide, kích thước), cấu trúc nội dung, mẫu caption, giờ đăng hay kênh đăng

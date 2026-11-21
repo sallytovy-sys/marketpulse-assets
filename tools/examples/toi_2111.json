@@ -1,0 +1,21 @@
+{"tag":"2111","date":"21/11/2026","source":"Nguồn: CBTT HoSE/HNX, Mekong ASEAN, BBW, VnBusiness, 24hMoney",
+ "slides":[
+ {"type":"cover","kicker":"Thứ Bảy · 21/11/2026","headline":"PNJ: từ vụ án P-Lab đến lệnh bán giải chấp của gia đình Chủ tịch",
+  "bullets":["Gia đình bà Cao Thị Ngọc Dung đã bán ra khoảng 44 triệu cổ phiếu PNJ từ tháng 9","3 lệnh lớn đang trong thời gian đăng ký: OPC, NKG, TAR","Tuần qua: lãnh đạo Novaland bán, người nhà Chủ tịch Masan thoái vốn"]},
+ {"type":"timeline","title":"Câu chuyện doanh nghiệp · PNJ","headline":"5 tháng biến động của PNJ",
+  "items":[["Đầu tháng 7/2026","Công an Thanh Hóa khởi tố ông Đặng Ngọc Thảo, người PNJ nêu là nguyên giám đốc P-Lab (công ty giám định 100% vốn PNJ). PNJ khẳng định đây là trách nhiệm cá nhân."],
+           ["Tháng 7–9/2026","Khách bán lại hàng tăng mạnh. Dự phòng giảm giá tồn kho tăng từ 46 tỷ lên 2.229 tỷ đồng."],
+           ["Quý 2 và quý 3/2026","PNJ lỗ 2 quý liên tiếp: −739 tỷ và −257 tỷ đồng (theo dữ liệu SSI)."],
+           ["13/11/2026","Cổ phiếu đóng cửa 14.950 đồng, thấp hơn 78% so với giữa tháng 6."]]},
+ {"type":"table","title":"Câu chuyện doanh nghiệp · PNJ","headline":"Gia đình Chủ tịch còn khoảng 7,8% vốn",
+  "rows":[["Giao dịch","Số cổ phiếu","Thời gian"],["Ngọc Thảo + Ngọc Hà bán","25 triệu","Tháng 9"],["Ông Cao Ngọc Duy bán","9 triệu","Đầu tháng 10"],["Ngọc Giao bị bán giải chấp","≈ 6,6 triệu","30/10 – 12/11"]],
+  "note":"Cuối tháng 6, gia đình nắm gần 85 triệu cổ phiếu (16,5%). Tại ĐHCĐ bất thường 21/10, bà Dung cho biết bán cổ phiếu để cho công ty vay; bà đã cho PNJ vay 700 tỷ đồng, lãi 10%/năm. Nguồn: Mekong ASEAN 14/11, BBW 30/10."},
+ {"type":"deals","title":"Lệnh lớn đang chờ thực hiện","headline":"Ai đang đăng ký mua/bán?",
+  "items":[{"sym":"OPC","action":"BÁN","qty":"≈15,6% vốn","who":"Ông Trịnh Xuân Vương (TV HĐQT), con trai và con dâu – thoái toàn bộ","time":"20/11 – 19/12/2026","note":"Lý do: thay đổi danh mục"},
+           {"sym":"NKG","action":"MUA","qty":"5 triệu cp","who":"Con gái Chủ tịch HĐQT Hồ Minh Quang","time":"18/11 – 16/12/2026","note":"Sở hữu dự kiến ≈1,02%"},
+           {"sym":"TAR","action":"MUA","qty":"1 triệu cp","who":"Bà Nguyễn Lê Bảo Trang, TV HĐQT kiêm Tổng giám đốc","time":"16/11 – 11/12/2026","note":"Tăng tỷ lệ sở hữu"}]},
+ {"type":"deals","title":"Tuần qua đã diễn ra","headline":"Người nội bộ ra vào ở NVL và MSN",
+  "items":[{"sym":"NVL","action":"BÁN","qty":"≈25,8 triệu cp","who":"3 lãnh đạo đăng ký bán; TGĐ Dương Văn Bắc đã bán xong 10,6 triệu cp (2–3/11)","time":"2/11 – 13/11/2026"},
+           {"sym":"NVL","action":"MUA","qty":"30 triệu cp","who":"Bà Bùi Cao Ngọc Quỳnh, em gái Chủ tịch Bùi Cao Nhật Quân, đăng ký mua","time":"2/11 – 13/11/2026"},
+           {"sym":"MSN","action":"BÁN","qty":"≈8,5 triệu cp","who":"Bà Nguyễn Yến Nhi, con gái Chủ tịch Nguyễn Đăng Quang, đăng ký bán toàn bộ","time":"13/11/2026 (thỏa thuận)","note":"Thu xếp vốn cho dự án cá nhân"}]}
+ ]}
