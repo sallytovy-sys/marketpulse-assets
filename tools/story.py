@@ -4,6 +4,7 @@
     story.json: {"big":"FPT", "sub":"Doanh thu giam 20%,<br>loi nhuan ...",
                  "rows":[["Doanh thu thuan Q3","-20,1%","down"],["LN co dong me","+11,8%","up"],["P/E","8,6 lan","flat"]],
                  "date":"19/11"}   (rows: 3-4 dong; label tu dong theo kind)
+  Ky thuat T7-CN: python3 tools/story.py <story.json> <out.jpg> --kind ta (json: series nen|pa, date, big, sub, rows)
   Tin toi:         python3 tools/story.py <story.json> <out.jpg> --kind toi  (json: date, big, sub, rows)
   Chuyen F0:       python3 tools/story.py <tapN_1.png> <out.jpg> --kind f0
 Mau KHOA theo kind: sang=#1D5FD1, chieu=#E85D00 (khong doc accent tu data).
@@ -11,8 +12,8 @@ Mau KHOA theo kind: sang=#1D5FD1, chieu=#E85D00 (khong doc accent tu data).
 import sys, os, json, asyncio, base64, io
 from PIL import Image
 HERE=os.path.dirname(os.path.abspath(__file__)); FD=os.path.expanduser('~/.fonts')
-COLORS={'sang':'#1D5FD1','chieu':'#E85D00'}
-CTA={'toi':'👆 Xem đầy đủ trong bài mới nhất','sang':'👆 Xem phân tích đầy đủ<br>trong bài mới nhất','chieu':'👆 Xem đầy đủ trong bài mới nhất','f0':'👆 Đọc trọn câu chuyện<br>trong bài mới nhất'}
+COLORS={'sang':'#1D5FD1','chieu':'#E85D00','ta':'#0D9488'}
+CTA={'ta':'👆 Xem đầy đủ trong bài mới nhất','toi':'👆 Xem đầy đủ trong bài mới nhất','sang':'👆 Xem phân tích đầy đủ<br>trong bài mới nhất','chieu':'👆 Xem đầy đủ trong bài mới nhất','f0':'👆 Đọc trọn câu chuyện<br>trong bài mới nhất'}
 RC={'up':'#16A34A','down':'#D93025','flat':'#111'}
 def b64(p): return base64.b64encode(open(p,'rb').read()).decode()
 FONT=f"""@font-face{{font-family:'Inter Tight';src:url('file://{FD}/InterTight.ttf');font-weight:100 900}}
@@ -21,7 +22,7 @@ body{{margin:0}} *{{box-sizing:border-box}}"""
 ICON='data:image/png;base64,'+b64(os.path.join(HERE,'icon.png'))
 def news(kind,d):
     acc=COLORS[kind]
-    label=d.get('label') or ('💼 DOANH NGHIỆP SÁNG NAY' if kind=='sang' else f"{d.get('emoji','📉')} THỊ TRƯỜNG PHIÊN {d['date']}")
+    label=({'nen':'🕯️ HỌC NẾN NHẬT','pa':'📐 PRICE ACTION'}[d['series']]+' · '+d['date']) if kind=='ta' else d.get('label') or ('💼 DOANH NGHIỆP SÁNG NAY' if kind=='sang' else f"{d.get('emoji','📉')} THỊ TRƯỜNG PHIÊN {d['date']}")
     rows=''.join(f'<div style="display:flex;justify-content:space-between;align-items:center;padding:22px 0;border-bottom:2px solid #EEE;font-size:40px;font-weight:700"><span>{a}</span><span style="color:{RC.get(c,c)}">{b}</span></div>' for a,b,c in d['rows'])
     return f'''<!doctype html><html><head><meta charset="utf-8"><style>{FONT}</style></head><body>
 <div style="width:1080px;height:1920px;background:#fff;font-family:'Inter Tight';color:#111;padding:260px 80px 0;position:relative">
@@ -31,7 +32,7 @@ def news(kind,d):
 <div style="margin-top:24px;font-weight:700;font-size:52px;line-height:1.2">{d['sub']}</div>
 <div style="margin-top:50px">{rows}</div>
 <div style="position:absolute;left:80px;right:80px;bottom:380px;border:4px dashed {acc};border-radius:28px;padding:30px;text-align:center;font-weight:700;font-size:40px;color:{acc}">{CTA[kind]}</div>
-<div style="position:absolute;left:80px;right:80px;bottom:300px;text-align:center;font-size:26px;color:#8A8A92">Nguồn: SSI · Không phải khuyến nghị đầu tư</div>
+<div style="position:absolute;left:80px;right:80px;bottom:300px;text-align:center;font-size:26px;color:#8A8A92">{'Kiến thức tham khảo · Không phải khuyến nghị đầu tư' if kind=='ta' else 'Nguồn: SSI · Không phải khuyến nghị đầu tư'}</div>
 </div><script>const b=document.getElementById('big');let s=150;while(b.scrollWidth>920&&s>70){{s-=6;b.style.fontSize=s+'px'}}</script></body></html>'''
 def toi(d):
     acc='#E5484D'
@@ -71,6 +72,6 @@ if __name__=='__main__':
     a=sys.argv
     if '--kind' not in a: sys.exit('Thieu --kind sang|chieu|f0')
     kind=a[a.index('--kind')+1]; src,out=a[1],a[2]
-    if kind not in ('sang','chieu','f0','toi'): sys.exit('kind sai')
+    if kind not in ('sang','chieu','f0','toi','ta'): sys.exit('kind sai')
     html=f0(src) if kind=='f0' else (toi(json.load(open(src))) if kind=='toi' else news(kind,json.load(open(src))))
     asyncio.run(shot(html,out)); print('OK',out)

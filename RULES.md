@@ -8,6 +8,8 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
 | 7h45 T2–T6 | Doanh nghiệp sáng nay | XANH DƯƠNG #1D5FD1 | Trắng 1080×1080, Inter Tight, 4 slide | `tools/render.py ... --kind sang` |
 | 11h45 hằng ngày | Chuyện F0 | Tím #6A4CF5, nền kem | Truyện tranh 1080×1350, 6 slide | Chỉ đăng tập đã duyệt trong `chuyen-f0/queue.json` |
 | 19h00 T2–CN | 🔥 Tin nóng tối nay | ĐỎ #E5484D trên nền tối #0F1115 | 1080×1350, Inter Tight, 4–5 slide (cover / timeline / table / deals) | `tools/render_toi.py <data.json> <thư mục>` (mẫu tools/examples/toi_2111.json) |
+| 8h45 T7–CN | 🕯️ Học nến Nhật | XANH NGỌC #0D9488 trên nền trắng | 1080×1350, 5 slide (cover/explain/list/chart/list) | `tools/render_ta.py` series "nen" (mẫu tools/examples/nen_2211.json) |
+| 16h05 T7–CN | 📐 Price Action | XANH NGỌC #0D9488 trên nền trắng | 1080×1350, 5 slide | `tools/render_ta.py` series "pa" (mẫu tools/examples/pa_2111.json) |
 | 16h05 T2–T6 | Thị trường phiên | CAM #E85D00 | Trắng 1080×1080, Inter Tight, 4 slide | `tools/render.py ... --kind chieu` |
 
 ### Story sau mỗi bài (Sally duyệt 19/11/2026)
@@ -22,6 +24,10 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
 - Chủ đề: mã/doanh nghiệp được báo tài chính nhắc nhiều nhất trong ngày; câu chuyện doanh nghiệp, lãnh đạo; giao dịch người nội bộ/cổ đông lớn ĐÃ ĐĂNG KÝ nhưng chưa thực hiện; sự kiện ảnh hưởng giá.
 - CHỈ dùng thông tin đã công bố chính thức (CBTT HoSE/HNX/UPCoM, cơ quan chức năng, doanh nghiệp) hoặc báo chí chính thống; ghi nguồn trên slide. Vụ án/tranh chấp: chỉ nêu đúng như cơ quan chức năng và doanh nghiệp công bố, ghi rõ "theo ...", không suy đoán, không kết luận thay cơ quan chức năng, không dùng từ xúc phạm. Không đăng tin đồn, không nêu thông tin đời tư không liên quan đến doanh nghiệp.
 - Không khuyến nghị mua/bán, không giá mục tiêu. Story: `tools/story.py --kind toi`, đăng 19h05.
+
+### Kỹ thuật cuối tuần (Sally duyệt 21/11/2026)
+- T7–CN: 8h45 Học nến Nhật, 16h05 Price Action, story 5 phút sau (`tools/story.py --kind ta`). Thứ tự bài theo tools/ta_curriculum.json.
+- Mỗi bài có ví dụ THẬT từ dữ liệu SSI (VN-Index hoặc cổ phiếu VN30), kiểm tra đúng điều kiện mô hình bằng số OHLC; nêu cả kết quả sau đó (kể cả khi tín hiệu thất bại). Kiến thức tham khảo, không khuyến nghị mua/bán, không nói "nên mua/bán".
 
 ## 2. Quy tắc thay đổi: PHẢI XÁC NHẬN TRƯỚC KHI TỰ ĐỘNG ĐĂNG
 - Mọi thay đổi về thiết kế (màu, font, bố cục, số slide, kích thước), cấu trúc nội dung, mẫu caption, giờ đăng hay kênh đăng

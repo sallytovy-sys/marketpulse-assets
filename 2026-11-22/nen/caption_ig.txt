@@ -1,0 +1,19 @@
+🕯️ HỌC NẾN NHẬT CUỐI TUẦN · Bài 1: Nến Nhấn chìm tăng (Bullish Engulfing)
+
+Khi phe mua "nuốt trọn" phiên giảm ngay trước đó.
+
+📌 3 điều kiện nhận diện:
+1. Nến thứ nhất là nến giảm
+2. Nến thứ hai tăng, mở cửa thấp hơn hoặc bằng giá đóng cửa nến 1 và đóng cửa cao hơn giá mở cửa nến 1: thân nến 2 bao trọn thân nến 1
+3. Xuất hiện sau một nhịp giảm
+
+🔎 Ví dụ thật VN-Index: 3/11 giảm từ 1.710,04 xuống 1.699,62. 4/11 mở cửa 1.697,71 và đóng cửa 1.733,02, khối lượng cao hơn 52%. Chỉ số lên 1.746,90 vào 11/11, nhưng đến 19/11 đã quay về 1.689,62: tín hiệu nến không phải lúc nào cũng kéo dài.
+
+⚠️ Đừng giao dịch chỉ vì 1 cây nến: xem bối cảnh, chờ xác nhận, nhìn khối lượng và luôn có kế hoạch rủi ro.
+
+👉 Vuốt để xem đủ 5 slide.
+💬 Bạn từng gặp mô hình này trên cổ phiếu nào?
+🔔 Theo dõi @marketpulse.vn: cuối tuần học Nến Nhật (8h45) và Price Action (16h05).
+
+📊 Nguồn dữ liệu: SSI | Kiến thức tham khảo, không phải khuyến nghị đầu tư.
+#nennhat #phantichkythuat #vnindex #chungkhoan #hocchungkhoan #marketpulse

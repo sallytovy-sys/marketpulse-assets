@@ -1,0 +1,21 @@
+🕯️ HỌC NẾN NHẬT CUỐI TUẦN · BÀI 1: NẾN NHẤN CHÌM TĂNG (BULLISH ENGULFING)
+
+Khi phe mua "nuốt trọn" phiên giảm ngay trước đó.
+
+📌 3 điều kiện nhận diện:
+1. Nến thứ nhất là nến giảm (thân đỏ)
+2. Nến thứ hai là nến tăng, mở cửa thấp hơn hoặc bằng giá đóng cửa của nến thứ nhất và đóng cửa cao hơn giá mở cửa của nến thứ nhất: thân nến 2 bao trọn thân nến 1
+3. Mô hình xuất hiện sau một nhịp giảm
+
+Tín hiệu đáng chú ý hơn khi xuất hiện ở vùng hỗ trợ, khối lượng phiên 2 lớn hơn phiên 1 và thân nến 2 dài. Đây chỉ là tín hiệu đảo chiều tiềm năng, cần phiên sau xác nhận.
+
+🔎 Ví dụ thật VN-Index: phiên 3/11 giảm từ 1.710,04 xuống 1.699,62 điểm. Phiên 4/11 mở cửa 1.697,71 và đóng cửa 1.733,02 điểm (+33,4 điểm), khối lượng 785 triệu cổ phiếu, cao hơn 52% phiên trước. Chỉ số lên 1.746,90 điểm vào 11/11, nhưng đến 19/11 đã quay về 1.689,62 điểm: tín hiệu nến không phải lúc nào cũng kéo dài.
+
+⚠️ Đừng giao dịch chỉ vì 1 cây nến: xem bối cảnh, chờ xác nhận, nhìn khối lượng và luôn có kế hoạch rủi ro.
+
+👉 Xem đủ trong 5 hình.
+💬 Bạn từng gặp mô hình này trên cổ phiếu nào?
+🔔 Theo dõi MarketPulse.Vn: cuối tuần học Nến Nhật (8h45) và Price Action (16h05).
+
+📊 Nguồn dữ liệu: SSI | Kiến thức tham khảo, không phải khuyến nghị đầu tư.
+#nennhat #phantichkythuat #vnindex #chungkhoan #hocchungkhoan #marketpulse

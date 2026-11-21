@@ -1,0 +1,41 @@
+{
+ "nen": [
+  "Nhấn chìm tăng (Bullish Engulfing)",
+  "Nhấn chìm giảm (Bearish Engulfing)",
+  "Búa (Hammer)",
+  "Người treo cổ (Hanging Man)",
+  "Sao băng (Shooting Star)",
+  "Búa ngược (Inverted Hammer)",
+  "Doji và các biến thể",
+  "Sao mai (Morning Star)",
+  "Sao hôm (Evening Star)",
+  "Harami tăng và giảm",
+  "Ba chàng lính trắng (Three White Soldiers)",
+  "Ba con quạ đen (Three Black Crows)",
+  "Marubozu",
+  "Đường xuyên (Piercing) và Mây đen che phủ (Dark Cloud Cover)"
+ ],
+ "pa": [
+  "Vùng hỗ trợ",
+  "Vùng kháng cự",
+  "Xu hướng: đỉnh và đáy cao dần / thấp dần",
+  "Vẽ đường xu hướng",
+  "Phá vỡ (breakout)",
+  "Phá vỡ giả (false breakout)",
+  "Pin bar tại vùng giá quan trọng",
+  "Khối lượng xác nhận tín hiệu",
+  "Hỗ trợ thành kháng cự (đổi vai)",
+  "Inside bar",
+  "Vùng tích lũy đi ngang",
+  "Quản trị rủi ro: điểm sai và tỷ lệ lời/lỗ"
+ ],
+ "done": {
+  "nen": [
+   "2026-11-22: Nhấn chìm tăng (Bullish Engulfing)"
+  ],
+  "pa": [
+   "2026-11-21: Vùng hỗ trợ"
+  ]
+ },
+ "note": "Mỗi T7 và CN: sáng (8h45) bài nến tiếp theo chưa có trong done.nen, chiều (16h05) bài price action tiếp theo chưa có trong done.pa. Hết danh sách thì lặp lại bằng ví dụ thực tế mới."
+}
