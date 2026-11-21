@@ -1,0 +1,56 @@
+{
+ "date": "21/11/2026",
+ "tag": "PNJ",
+ "source": "Nguồn: SSI · BCTC quý 3/2026 (chưa kiểm toán)",
+ "slides": [
+  {
+   "headline": "PNJ lỗ 2 quý liên tiếp, sau quý 1/2026 lãi gần 1.470 tỷ đồng",
+   "body": "Quý 3/2026, PNJ đạt 6.995 tỷ đồng doanh thu thuần và lỗ 257 tỷ đồng lợi nhuận thuộc cổ đông công ty mẹ (báo cáo chưa kiểm toán). Quý 2/2026 lỗ 739 tỷ đồng. Lũy kế 9 tháng 2026 vẫn lãi 472 tỷ đồng nhờ quý 1 lãi 1.467 tỷ đồng.",
+   "chart_title": "Lợi nhuận cổ đông công ty mẹ theo quý",
+   "chart_sub": "Đơn vị: tỷ đồng, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "Q3/2026", "sub": "chưa kiểm toán", "val": 257, "label": "−257"},
+    {"sym": "Q2/2026", "sub": "", "val": 739, "label": "−739"},
+    {"sym": "Q1/2026", "sub": "", "val": 1467, "label": "1.467"},
+    {"sym": "Q4/2025", "sub": "", "val": 1218, "label": "1.218"}
+   ]
+  },
+  {
+   "headline": "Biên lợi nhuận gộp giảm từ 24,9% xuống 8,7% trong 3 quý",
+   "body": "Quý 2/2026, PNJ lỗ gộp 667 tỷ đồng, tức giá vốn cao hơn doanh thu. Sang quý 3, biên lợi nhuận gộp hồi lên 8,7% nhưng chưa đủ bù chi phí, lợi nhuận từ hoạt động kinh doanh vẫn âm 337 tỷ đồng.",
+   "chart_title": "Biên lợi nhuận gộp theo quý",
+   "chart_sub": "Lợi nhuận gộp / doanh thu thuần, tính từ dữ liệu SSI",
+   "rows": [
+    {"sym": "Q3/2026", "sub": "", "val": 8.7, "label": "8,7%"},
+    {"sym": "Q2/2026", "sub": "lỗ gộp", "val": 7.9, "label": "−7,9%"},
+    {"sym": "Q1/2026", "sub": "", "val": 20.0, "label": "20,0%"},
+    {"sym": "Q4/2025", "sub": "", "val": 24.9, "label": "24,9%"}
+   ]
+  },
+  {
+   "headline": "Giá cổ phiếu giảm 76,7% trong 1 năm, P/B còn khoảng 0,52 lần",
+   "body": "Giá đóng cửa 13.500 đồng (20/11) so với 57.974 đồng một năm trước (giá đã điều chỉnh). Giá trị sổ sách cuối quý 3 là 25.761 đồng/cổ phiếu, nên P/B khoảng 0,52 lần. ROE 12 tháng giảm từ 28,0% (quý 1) xuống 12,4% (quý 3); tổng nợ phải trả bằng 0,52 lần vốn chủ.",
+   "chart_title": "P/B của PNJ năm 2026",
+   "chart_sub": "Đơn vị: lần, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "20/11", "sub": "Giá 13.500 đ", "val": 0.52, "label": "≈0,52"},
+    {"sym": "Q3/2026", "sub": "", "val": 0.52, "label": "0,52"},
+    {"sym": "Q2/2026", "sub": "", "val": 0.71, "label": "0,71"},
+    {"sym": "Q1/2026", "sub": "", "val": 1.67, "label": "1,67"}
+   ]
+  },
+  {
+   "headline": "SSI Research chấm PNJ 0/100 điểm cơ bản và 6/100 điểm kỹ thuật",
+   "body": "Điểm phân tích cơ bản (FA) của PNJ là 0/100, xếp 1 sao; điểm kết quả kinh doanh khoảng 1/100 và triển vọng ngành 11/100. Điểm kỹ thuật (TA) 6/100. Điểm của SSI là thứ hạng tương đối trong nhóm được chấm, không phải khuyến nghị.",
+   "chart_title": "Điểm đánh giá của SSI Research",
+   "chart_sub": "Thang 100, xếp hạng tương đối trong nhóm cổ phiếu được chấm",
+   "rows": [
+    {"sym": "Ngành", "sub": "Triển vọng ngành", "val": 11, "label": "11/100"},
+    {"sym": "TA", "sub": "Phân tích kỹ thuật", "val": 6, "label": "6/100"},
+    {"sym": "KQKD", "sub": "Kết quả kinh doanh", "val": 1.2, "label": "1/100"},
+    {"sym": "FA", "sub": "Phân tích cơ bản", "val": 0, "label": "0/100"}
+   ]
+  }
+ ],
+ "kind": "sang"
+}
