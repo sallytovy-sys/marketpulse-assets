@@ -1,5 +1,5 @@
 {
- "note": "Hàng chờ Chuyện F0. Mỗi ngày 11h30 lịch tự động đăng tập có date = hôm nay và status = pending lúc 11h45, sau đó đổi status = posted.",
+ "note": "Hàng chờ Chuyện F0. Lịch 11h43 chỉ đăng tập có date = hôm nay và status = pending, sau đó đổi status = posted. Tập status = cho_duyet: CHƯA được đăng, chờ Sally duyệt rồi Claude đổi sang pending.",
  "queue": [
   {
    "tap": 3,
@@ -46,6 +46,111 @@
    ],
    "ig": "🎬 CHUYỆN F0 · TẬP 5: \"VN-Index tăng mà tài khoản tôi vẫn đỏ lòm\"\n\nSáng nào Mai cũng thấy tin \"VN-Index tăng điểm\". Nhưng mở tài khoản ra, các mã Mai đang giữ vẫn đỏ. \"Mình bị lừa à?\"\n\nVN-Index giống điểm trung bình của cả lớp, nhưng mỗi bạn có \"hệ số\" khác nhau, tính theo vốn hóa. Chỉ cần vài bạn \"to\" điểm cao là trung bình cả lớp tăng, dù phần lớn các bạn khác điểm kém.\n\nMai toàn mua cổ phiếu nhỏ, đúng nhóm \"các bạn khác\". Nên VN-Index tăng không có nghĩa cổ phiếu của Mai tăng.\n\n📌 3 điều F0 nên nhớ:\n1. VN-Index tính theo vốn hóa, vài mã lớn chi phối\n2. Xem độ rộng: số mã tăng so với số mã giảm\n3. So danh mục với nhóm cổ phiếu tương tự, không chỉ với chỉ số\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn hay than \"index xanh mà mình đỏ\" 😅\n\n💬 Tuần này danh mục của bạn so với VN-Index thế nào?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #vnindex #dautuchungkhoan #kienthucdautu #marketpulse",
    "fb": "🎬 CHUYỆN F0 · TẬP 5: VN-INDEX TĂNG MÀ TÀI KHOẢN TÔI VẪN ĐỎ LÒM\n\nSáng nào Mai cũng đọc được tin \"VN-Index tăng điểm\". Nhưng mở tài khoản ra, các mã Mai đang giữ vẫn đỏ. Mai bắt đầu nghi ngờ mọi tin tức.\n\nThực ra VN-Index giống điểm trung bình của một lớp học, nhưng mỗi bạn có \"hệ số\" khác nhau, được tính theo vốn hóa. Chỉ cần vài cổ phiếu vốn hóa lớn tăng điểm là chỉ số đã tăng, dù phần lớn cổ phiếu khác đang giảm.\n\nMai chủ yếu mua cổ phiếu nhỏ, đúng nhóm đang giảm. Vì vậy VN-Index tăng không có nghĩa danh mục của Mai tăng. Muốn biết thị trường thật sự khỏe hay yếu, hãy xem độ rộng thị trường: có bao nhiêu mã tăng, bao nhiêu mã giảm.\n\n📌 3 điều F0 nên nhớ:\n1. VN-Index tính theo vốn hóa, vài mã lớn chi phối\n2. Xem độ rộng: số mã tăng so với số mã giảm\n3. So danh mục với nhóm cổ phiếu tương tự, không chỉ với chỉ số\n\n📩 Chia sẻ cho người bạn hay than \"index xanh mà mình đỏ\".\n\n💬 Tuần này danh mục của bạn so với VN-Index thế nào?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #vnindex #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 6,
+   "date": "2026-11-24",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 6: Giảm 50% rồi, tôi tưởng là đáy. Hóa ra chỉ là giữa dốc",
+    "Cổ phiếu X giảm từ 100.000đ xuống 50.000đ",
+    "Giá giảm tiếp về 25.000đ",
+    "Từ 25.000đ cần tăng 100% để về 50.000đ",
+    "Bắt đáy như bắt con dao đang rơi",
+    "Giá rẻ chưa chắc là đáy"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 6: \"Giảm 50% rồi, tôi tưởng là đáy. Hóa ra chỉ là giữa dốc\"\n\nKhoa thấy cổ phiếu X giảm từ 100.000đ xuống 50.000đ. \"Giảm một nửa rồi, chắc là đáy.\" Khoa dồn toàn bộ 200 triệu mua một lần.\n\nGiá tiếp tục giảm về 25.000đ: giảm thêm 50% từ chỗ Khoa mua. 200 triệu còn 100 triệu. Muốn về lại điểm mua, cổ phiếu phải tăng gấp đôi.\n\n🔪 Trước khi \"bắt đáy\", nhớ:\n1. Giảm 50% vẫn có thể giảm thêm 50%\n2. Không dồn hết tiền vào một lần mua\n3. Chờ giá ngừng giảm rồi mới vào\n4. Luôn định trước mức cắt lỗ\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn đang \"bắt đáy\" mỗi ngày\n\n💬 Bạn từng bắt đáy thành công hay \"bắt hụt\"?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #batday #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 6: GIẢM 50% RỒI, TÔI TƯỞNG LÀ ĐÁY. HÓA RA CHỈ LÀ GIỮA DỐC\n\nKhoa thấy cổ phiếu X giảm từ 100.000đ xuống 50.000đ. \"Giảm một nửa rồi, chắc là đáy.\" Nghĩ vậy, Khoa dồn toàn bộ 200 triệu đồng mua vào một lần.\n\nNhưng giá tiếp tục giảm, về 25.000đ. Từ chỗ Khoa mua, cổ phiếu giảm thêm 50% nữa và 200 triệu chỉ còn 100 triệu. Để quay lại điểm mua 50.000đ, cổ phiếu cần tăng 100%: giảm 50% chỉ cần một nhịp xấu, còn tăng 100% có khi mất vài năm.\n\n\"Giá rẻ\" không có nghĩa là \"đáy\". Thay vì đoán đáy, nhà đầu tư thường chờ giá ngừng giảm, chia nhỏ tiền mua nhiều lần và định trước mức chấp nhận sai.\n\n🔪 Trước khi \"bắt đáy\", F0 nên nhớ:\n1. Giảm 50% vẫn có thể giảm thêm 50%\n2. Không dồn hết tiền vào một lần mua\n3. Chờ giá ngừng giảm rồi mới vào\n4. Luôn định trước mức cắt lỗ\n\n📩 Chia sẻ cho người bạn đang \"bắt đáy\" mỗi ngày.\n\n💬 Bạn từng bắt đáy thành công hay \"bắt hụt\"?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #batday #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 7,
+   "date": "2026-11-25",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 7: 3 phiên tím trần, tôi mua ở phiên thứ 4 và đứng đỉnh",
+    "Nhóm chat khoe lãi khi cổ phiếu tăng trần",
+    "Vy mua ở giá trần 12.250đ",
+    "Cổ phiếu giảm sàn 2 phiên, còn khoảng 10.600đ",
+    "FOMO là sợ bị bỏ lỡ",
+    "Đừng mua vì sợ lỡ"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 7: \"3 phiên tím trần, tôi mua ở phiên thứ 4 và đứng đỉnh\"\n\nCổ phiếu Y tăng trần 3 phiên liền. Nhóm chat bạn bè ai cũng khoe lãi. Vy sợ bị bỏ lại và mua ở giá trần 12.250đ trong phiên thứ 4.\n\nHai phiên sau, cổ phiếu giảm sàn liên tiếp, còn khoảng 10.600đ (−13%). Cổ phiếu mua theo chu kỳ T+2 nên Vy không kịp thoát.\n\n🎢 Trước khi đuổi theo mã tăng nóng:\n1. Tự hỏi: mình mua vì hiểu hay vì sợ lỡ?\n2. Nhớ T+2: mua hôm nay chưa bán được ngay\n3. Mã tăng trần nhiều phiên có thể giảm sàn\n4. Chỉ dùng số tiền chấp nhận được nếu sai\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn hay \"đu đỉnh\" cùng nhóm chat\n\n💬 Bạn từng mua vì FOMO chưa?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #FOMO #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 7: 3 PHIÊN TÍM TRẦN, TÔI MUA Ở PHIÊN THỨ 4 VÀ ĐỨNG ĐỈNH\n\nCổ phiếu Y tăng trần 3 phiên liền (sàn HOSE cho phép tăng tối đa 7% mỗi phiên), từ 10.000đ lên khoảng 12.250đ. Nhóm chat bạn bè ai cũng khoe lãi, Vy sợ bị bỏ lại.\n\nPhiên thứ 4, Vy đặt mua ở giá trần 12.250đ. Lệnh khớp ngay, vì có rất nhiều người đang bán ra cho Vy. Hai phiên sau, cổ phiếu giảm sàn liên tiếp, còn khoảng 10.600đ (−13%). Cổ phiếu mua theo chu kỳ T+2, phải sau 2 ngày làm việc mới về tài khoản để bán, nên Vy không kịp thoát.\n\nFOMO (Fear Of Missing Out) là nỗi sợ bị bỏ lỡ. Khi ai cũng khoe lãi, thường là lúc giá đã tăng nhiều, và người mua sau cùng là người chịu rủi ro lớn nhất.\n\n🎢 Trước khi đuổi theo mã tăng nóng:\n1. Tự hỏi: mình mua vì hiểu hay vì sợ lỡ?\n2. Nhớ T+2: mua hôm nay chưa bán được ngay\n3. Mã tăng trần nhiều phiên có thể giảm sàn\n4. Chỉ dùng số tiền chấp nhận được nếu sai\n\n📩 Chia sẻ cho người bạn hay \"đu đỉnh\" cùng nhóm chat.\n\n💬 Bạn từng mua vì FOMO chưa?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #FOMO #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 8,
+   "date": "2026-11-26",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 8: Tôi gồng lỗ từ −10% đến −50% chỉ vì chờ về bờ",
+    "Bình mua giá 50.000đ, tuần sau còn 45.000đ",
+    "Giá giảm về 35.000đ rồi 25.000đ",
+    "Lỗ càng sâu càng cần tăng nhiều để hòa vốn",
+    "Cắt lỗ không phải là thua",
+    "Chờ về bờ không phải chiến lược"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 8: \"Tôi gồng lỗ từ −10% đến −50% chỉ vì chờ về bờ\"\n\nBình mua cổ phiếu Z giá 50.000đ. Tuần sau còn 45.000đ. \"Chưa bán thì chưa lỗ, chờ về bờ rồi bán.\"\n\nRồi giá về 35.000đ (−30%), 25.000đ (−50%). Tiền bị kẹt suốt nhiều tháng.\n\n📉 Lỗ bao nhiêu thì cần tăng bao nhiêu để hòa vốn:\nLỗ 10% → cần +11%\nLỗ 20% → cần +25%\nLỗ 30% → cần +43%\nLỗ 50% → cần +100%\n\n🧱 Để không gồng lỗ:\n1. Đặt mức cắt lỗ ngay khi mua\n2. \"Chưa bán chưa lỗ\" là tự an ủi\n3. Tiền kẹt lâu là mất cơ hội khác\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn đang \"gồng\" mã đỏ lòm\n\n💬 Mức cắt lỗ của bạn là bao nhiêu?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #catlo #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 8: TÔI GỒNG LỖ TỪ −10% ĐẾN −50% CHỈ VÌ CHỜ \"VỀ BỜ\"\n\nBình mua cổ phiếu Z giá 50.000đ. Một tuần sau giá còn 45.000đ. Bình tự nhủ: \"Chưa bán thì chưa lỗ, chờ về bờ rồi bán.\"\n\nGiá tiếp tục về 35.000đ (−30%), rồi 25.000đ (−50%). Mỗi lần giảm, Bình lại tắt app và chờ. Tiền bị \"kẹt\" suốt nhiều tháng, không làm được gì khác.\n\nLỗ càng sâu, quãng đường quay về càng xa: lỗ 10% chỉ cần tăng 11% để hòa vốn, lỗ 20% cần tăng 25%, lỗ 30% cần tăng 43%, còn lỗ 50% cần tăng 100%. Vì vậy nhiều nhà đầu tư đặt trước một mức cắt lỗ (ví dụ 7–10% tùy khẩu vị) ngay khi mua, và làm đúng khi giá chạm mức đó. Cắt lỗ là chấp nhận một khoản sai nhỏ để giữ tiền cho cơ hội tiếp theo.\n\n🧱 Để không gồng lỗ như Bình:\n1. Đặt mức cắt lỗ ngay khi mua\n2. Lỗ 50% cần tăng 100% mới hòa vốn\n3. \"Chưa bán chưa lỗ\" là tự an ủi\n4. Tiền kẹt lâu là mất cơ hội khác\n\n📩 Chia sẻ cho người bạn đang \"gồng\" mã đỏ lòm.\n\n💬 Mức cắt lỗ của bạn là bao nhiêu?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #catlo #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 9,
+   "date": "2026-11-27",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 9: Xem 1 video TikTok, tôi mua ngay. Người quay đã bán",
+    "Video kèo x3 hơn 1 triệu lượt xem",
+    "Người quay mua sớm, người xem mua ở vùng giá cao",
+    "Ai bán khi đám đông mua",
+    "Câu hỏi trước khi tin một video",
+    "View cao không phải bằng chứng"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 9: \"Xem 1 video TikTok, tôi mua ngay. Người quay đã bán\"\n\nĐức thấy video 1,2 triệu lượt xem: \"Mã này sắp x3, vào ngay kẻo lỡ!\" Sáng hôm sau rất nhiều người cùng mua, Đức mua ở vùng giá cao.\n\nĐiều Đức không biết: người quay video đã mua từ trước, khi giá còn thấp, và có thể bán ra cho chính người xem. Vài phiên sau, giá giảm mạnh.\n\n📱 Trước khi mua theo video:\n1. Người nói là ai, có chứng chỉ hành nghề không?\n2. Họ có đang giữ mã đó?\n3. Tự xem báo cáo tài chính, không chỉ nghe\n4. Cẩn trọng với lời hứa \"x2, x3\"\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn hay \"mua theo TikTok\"\n\n💬 Bạn từng mua cổ phiếu vì một video chưa?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #tiktok #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 9: XEM 1 VIDEO TIKTOK, TÔI MUA NGAY. NGƯỜI QUAY ĐÃ BÁN\n\nĐức lướt TikTok, thấy video 1,2 triệu lượt xem: \"Mã này sắp x3, vào ngay kẻo lỡ!\" Người quay video có hàng trăm nghìn người theo dõi.\n\nSáng hôm sau, rất nhiều người cùng mua, giá tăng mạnh và Đức mua ở vùng giá cao. Điều Đức không biết: người quay video đã mua từ trước, khi giá còn thấp. Khi người xem đổ vào mua, người mua sớm có thể bán ra cho chính họ. Vài phiên sau, giá giảm mạnh, và không ai nhắc lại \"kèo\" đó nữa.\n\nNhiều lượt xem không có nghĩa là đúng. Người nói về cổ phiếu trên mạng có thể đang có lợi ích từ việc bạn mua.\n\n📱 Trước khi mua theo video mạng xã hội:\n1. Kiểm tra người nói là ai, có chứng chỉ hành nghề, có lợi ích gì\n2. Tự xem báo cáo tài chính, không chỉ nghe\n3. Cẩn trọng với lời hứa \"x2, x3\"\n4. Không mua vì sợ lỡ trend\n\n📩 Chia sẻ cho người bạn hay \"mua theo TikTok\".\n\n💬 Bạn từng mua cổ phiếu vì một video chưa?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #tiktok #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 10,
+   "date": "2026-11-28",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 10: Lướt sóng 50 lệnh 1 tháng, tiền lãi chảy vào phí",
+    "Phúc mua bán 25 vòng mỗi tháng với 100 triệu",
+    "Phí và thuế mỗi vòng mua bán khoảng 400.000đ",
+    "25 vòng mất khoảng 10 triệu, bằng 10% vốn",
+    "Giao dịch càng nhiều, phí càng nhiều",
+    "Mua bán nhiều không có nghĩa lãi nhiều"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 10: \"Lướt sóng 50 lệnh 1 tháng, tiền lãi chảy vào phí\"\n\nPhúc có 100 triệu, mua bán gần như mỗi ngày: 25 vòng mua + bán trong một tháng.\n\nMỗi vòng 100 triệu (ví dụ): phí mua 0,15% = 150.000đ, phí bán 0,15% = 150.000đ, thuế bán 0,1% = 100.000đ. Tổng 400.000đ.\n\n25 vòng = 10 triệu đồng, tức 10% số vốn mỗi tháng. Phúc phải lãi hơn 10% mỗi tháng chỉ để hòa.\n\n🏄 Trước khi lướt sóng:\n1. Mỗi vòng mua bán đều mất phí\n2. Thuế bán 0,1% kể cả khi lỗ\n3. Tính chi phí cả tháng, không chỉ từng lệnh\n4. Biết rõ biểu phí công ty chứng khoán của mình (mức phí mỗi nơi khác nhau)\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn \"ngày nào cũng lướt\"\n\n💬 Một tháng bạn đặt bao nhiêu lệnh?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #luotsong #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 10: LƯỚT SÓNG 50 LỆNH 1 THÁNG, TIỀN LÃI CHẢY VÀO PHÍ\n\nPhúc có 100 triệu đồng, mua bán gần như mỗi ngày để ăn chênh lệch 1–2% mỗi lần. Một tháng, Phúc mua rồi bán 25 vòng, tổng số tiền mua vào khoảng 2,5 tỷ đồng.\n\nMỗi lần mua và bán đều mất phí giao dịch, và khi bán còn bị trừ thuế 0,1% trên giá trị bán, dù lệnh đó lãi hay lỗ. Ví dụ với mỗi vòng 100 triệu: phí mua 0,15% là 150.000đ, phí bán 0,15% là 150.000đ, thuế bán 0,1% là 100.000đ, tổng 400.000đ. Mức phí tùy công ty chứng khoán.\n\n25 vòng × 400.000đ = 10 triệu đồng, tức 10% số vốn mỗi tháng. Phúc phải lãi hơn 10% mỗi tháng chỉ để hòa, mà không phải lệnh nào cũng lãi. Lướt sóng không sai, nhưng cần tính chi phí trước.\n\n🏄 Trước khi lướt sóng, F0 nên nhớ:\n1. Mỗi vòng mua bán đều mất phí\n2. Thuế bán 0,1% kể cả khi lỗ\n3. Tính chi phí cả tháng, không chỉ từng lệnh\n4. Biết rõ biểu phí công ty chứng khoán của mình\n\n📩 Chia sẻ cho người bạn \"ngày nào cũng lướt\".\n\n💬 Một tháng bạn đặt bao nhiêu lệnh?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #luotsong #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 11,
+   "date": "2026-11-29",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 11: Rút sổ tiết kiệm mua cổ phiếu, đúng lúc cần tiền thì đang lỗ",
+    "Chị Thu so sánh lãi tiết kiệm và cổ phiếu",
+    "6 tháng sau danh mục lỗ 20% đúng lúc cần tiền",
+    "Giữ sổ khoảng 210 triệu, thực tế còn khoảng 160 triệu",
+    "Chia tiền theo thời gian cần dùng",
+    "Tiền sắp dùng đừng đưa vào cổ phiếu"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 11: \"Rút sổ tiết kiệm mua cổ phiếu, đúng lúc cần tiền thì đang lỗ\"\n\nChị Thu có 200 triệu gửi tiết kiệm để sửa nhà năm sau. Thấy bạn khoe lãi cổ phiếu, chị rút sổ trước hạn để mua.\n\n6 tháng sau, danh mục lỗ 20%, đúng lúc cần tiền sửa nhà. Chị phải bán cắt lỗ. Nếu giữ sổ (ví dụ 5%/năm) chị có khoảng 210 triệu; thực tế còn khoảng 160 triệu.\n\n🏦 Chia tiền theo thời gian cần dùng:\n1. Quỹ dự phòng 3–6 tháng chi tiêu: để tiết kiệm\n2. Tiền cần trong 1–2 năm: để nơi an toàn\n3. Chỉ đầu tư tiền 3–5 năm không cần dùng\n4. Cổ phiếu có năm tăng, có năm giảm\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người đang định \"rút sổ\" mua cổ phiếu\n\n💬 Bạn chia tiền tiết kiệm và đầu tư thế nào?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #taichinhcanhan #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 11: RÚT SỔ TIẾT KIỆM MUA CỔ PHIẾU, ĐÚNG LÚC CẦN TIỀN THÌ ĐANG LỖ\n\nChị Thu có 200 triệu đồng gửi tiết kiệm, dự định dùng để sửa nhà vào năm sau. Thấy bạn khoe cổ phiếu lãi 30% năm qua, trong khi tiết kiệm chỉ khoảng 5%/năm (ví dụ), chị rút sổ trước hạn để mua cổ phiếu.\n\n6 tháng sau, thị trường điều chỉnh, danh mục của chị lỗ 20%, đúng lúc thợ báo giá sửa nhà. Chị phải bán cắt lỗ để có tiền. Nếu giữ sổ, chị có khoảng 210 triệu; thực tế chị còn khoảng 160 triệu, chênh lệch khoảng 50 triệu.\n\nCổ phiếu có thể lãi cao hơn tiết kiệm trong dài hạn, nhưng có những năm giảm. Tiền cần dùng trong 1–2 năm tới không có thời gian để chờ giá hồi. Vấn đề không phải \"tiết kiệm hay cổ phiếu\", mà là tiền nào cho việc nào.\n\n🏦 Trước khi rút sổ tiết kiệm để đầu tư:\n1. Giữ quỹ dự phòng 3–6 tháng chi tiêu\n2. Tiền cần trong 1–2 năm: để nơi an toàn\n3. Chỉ đầu tư tiền 3–5 năm không cần dùng\n4. Cổ phiếu có năm tăng, có năm giảm\n\n📩 Chia sẻ cho người đang định \"rút sổ\" mua cổ phiếu.\n\n💬 Bạn chia tiền tiết kiệm và đầu tư thế nào?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #taichinhcanhan #dautuchungkhoan #kienthucdautu #marketpulse"
+  },
+  {
+   "tap": 12,
+   "date": "2026-11-30",
+   "status": "cho_duyet",
+   "alt": [
+    "Chuyện F0 tập 12: Công ty báo lãi kỷ lục, tôi mua vào và lỗ 15%",
+    "Tin công ty K báo lãi quý kỷ lục, tăng 80%",
+    "Giá đảo chiều giảm ngay sau khi tin ra",
+    "Giá đã tăng trước tin, kết quả thấp hơn kỳ vọng",
+    "Câu hỏi trước khi mua theo tin tốt",
+    "Tin tốt chưa chắc giá tăng"
+   ],
+   "ig": "🎬 CHUYỆN F0 · TẬP 12: \"Công ty báo lãi kỷ lục, tôi mua vào và lỗ 15%\"\n\nHà đọc tin: công ty K báo lợi nhuận quý cao kỷ lục, tăng 80%. \"Tin tốt thế này, giá chắc chắn tăng.\" Hà mua ngay lúc mở cửa.\n\nNhưng giá đảo chiều giảm. Hai tuần sau, cổ phiếu thấp hơn giá Hà mua 15%.\n\nVì sao? 2 tháng trước, giá đã tăng 40% do thị trường kỳ vọng lãi tăng 100%. Kết quả thực tế 80%: kỷ lục, nhưng thấp hơn kỳ vọng. Người mua sớm chốt lời.\n\n📰 Khi đọc tin \"lãi kỷ lục\":\n1. Giá phản ánh kỳ vọng, không chỉ kết quả\n2. Xem giá đã tăng bao nhiêu trước tin\n3. So kết quả với kỳ vọng của thị trường\n4. Đừng mua chỉ vì tiêu đề tin tức\n\n👉 Vuốt để xem trọn câu chuyện.\n\n📩 Gửi cho người bạn hay \"mua theo tin\"\n\n💬 Bạn từng mua theo tin tốt rồi bị lỗ chưa?\n\n🔔 Theo dõi @marketpulse.vn để đọc \"Chuyện F0\" mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #tintuc #dautuchungkhoan #kienthucdautu #marketpulse",
+   "fb": "🎬 CHUYỆN F0 · TẬP 12: CÔNG TY BÁO LÃI KỶ LỤC, TÔI MUA VÀO VÀ LỖ 15%\n\nSáng thứ Hai, Hà đọc tin: công ty K báo lợi nhuận quý cao kỷ lục, tăng 80%. \"Tin tốt thế này, giá chắc chắn tăng.\" Hà mua ngay lúc mở cửa.\n\nNhưng ngay trong phiên, giá đảo chiều giảm. Hai tuần sau, cổ phiếu thấp hơn giá Hà mua 15%. Hà không hiểu: \"Lãi kỷ lục mà sao giá giảm?\"\n\nGiá cổ phiếu phản ánh kỳ vọng. Hai tháng trước đó, giá đã tăng 40% vì nhiều người đoán lãi sẽ tăng gấp đôi. Khi kết quả thực tế là tăng 80%, kỷ lục nhưng thấp hơn kỳ vọng, những người mua sớm chốt lời. Tin tốt ai cũng biết thì thường đã nằm trong giá.\n\n📰 Khi đọc tin \"lãi kỷ lục\", F0 nên nhớ:\n1. Giá phản ánh kỳ vọng, không chỉ kết quả\n2. Xem giá đã tăng bao nhiêu trước tin\n3. So kết quả với kỳ vọng của thị trường\n4. Đừng mua chỉ vì tiêu đề tin tức\n\n📩 Chia sẻ cho người bạn hay \"mua theo tin\".\n\n💬 Bạn từng mua theo tin tốt rồi bị lỗ chưa?\n\n🔔 Theo dõi MarketPulse.Vn để đọc \"Chuyện F0\" lúc 11h45 mỗi trưa.\n\n📌 Câu chuyện minh họa, tổng hợp từ các tình huống phổ biến. Nội dung chỉ mang tính thông tin, không phải khuyến nghị đầu tư.\n\n#chungkhoan #F0 #tintuc #dautuchungkhoan #kienthucdautu #marketpulse"
   }
  ]
 }
