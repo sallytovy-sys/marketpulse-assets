@@ -45,3 +45,19 @@ Chủ kênh: Sally. Chốt ngày 19/11/2026. Chỉ chủ kênh được thay đ�
 - Mọi bài ghi nguồn (SSI) và dòng "Không phải khuyến nghị đầu tư". Không giá mục tiêu, không khuyến nghị mua/bán.
 - Chỉ dùng số liệu lấy được, tự tính lại %; không suy đoán nguyên nhân dữ liệu không nêu.
 - Chuyện F0: nhân vật hư cấu, ghi "Câu chuyện minh họa"; không tự viết tập mới khi chưa được duyệt.
+
+## 4. Caption Instagram rút gọn (22/11) – Sally duyệt 22/11/2026
+- Facebook giữ nguyên caption_fb.txt. Instagram KHÔNG dùng caption dài. Trước khi đăng, nếu caption_ig.txt chưa theo mẫu thì viết lại theo mẫu (≤ 400 ký tự, đúng số liệu của bài), ghi đè caption_ig.txt, commit + push.
+- Mẫu:
+```
+<emoji> <TIÊU ĐỀ NGẮN>
+
+<1–2 câu ý chính, tối đa 1 con số quan trọng>
+
+💬 <1 câu hỏi cho người đọc>
+
+Nguồn: <nguồn> · Không phải khuyến nghị đầu tư.
+#chungkhoan #<1 hashtag chủ đề> #marketpulse
+```
+- Chuyện F0: dòng cuối "Câu chuyện minh họa · Không phải khuyến nghị đầu tư." + #chungkhoan #F0 #marketpulse.
+- CẤM trong caption IG: tag @marketpulse.vn, dòng "Theo dõi…", "Vuốt để xem…", danh sách gạch đầu dòng, hashtag mã cổ phiếu, quá 3 hashtag.
