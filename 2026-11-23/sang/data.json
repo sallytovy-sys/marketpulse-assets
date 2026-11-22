@@ -1,0 +1,52 @@
+{
+ "date": "23/11/2026",
+ "tag": "SUKIEN",
+ "source": "Nguồn: SSI · Lịch sự kiện doanh nghiệp, giá phiên 20/11/2026",
+ "slides": [
+  {
+   "headline": "Tuần 23–27/11: VNM trả cổ tức 2.500 đồng, BVH chốt quyền nhận 809 đồng/cổ phiếu",
+   "body": "Ngày 26/11, Vinamilk (VNM) thanh toán cổ tức đợt 1/2026 bằng tiền 2.500 đồng/cổ phiếu (ngày GDKHQ đã qua, 11/11). Cùng ngày 26/11 là ngày GDKHQ cổ tức năm 2025 của Bảo Việt (BVH), 809 đồng/cổ phiếu, thanh toán 28/12. GVR trả 400 đồng/cổ phiếu ngày 10/12.",
+   "chart_title": "Cổ tức tiền mặt sắp chi trả",
+   "chart_sub": "Đơn vị: đồng/cổ phiếu, theo lịch sự kiện SSI",
+   "rows": [
+    {"sym": "VNM", "sub": "Thanh toán 26/11", "val": 2500, "label": "2.500"},
+    {"sym": "BVH", "sub": "GDKHQ 26/11", "val": 809, "label": "809"},
+    {"sym": "GVR", "sub": "Thanh toán 10/12", "val": 400, "label": "400"}
+   ]
+  },
+  {
+   "headline": "So với giá phiên 20/11, cổ tức của VNM bằng khoảng 4,9% thị giá",
+   "body": "Tính trên giá đóng cửa phiên 20/11: VNM 51.400 đồng, GVR 27.300 đồng, BVH 58.000 đồng. Riêng BVH, nhà đầu tư cần sở hữu cổ phiếu trước ngày GDKHQ 26/11 (ngày đăng ký cuối cùng 27/11) mới được nhận cổ tức. VNM và GVR đã qua ngày GDKHQ.",
+   "chart_title": "Cổ tức / giá đóng cửa phiên 20/11",
+   "chart_sub": "Tính từ dữ liệu SSI, chỉ tính đợt cổ tức này",
+   "rows": [
+    {"sym": "VNM", "sub": "Giá 51.400 đ", "val": 4.86, "label": "4,9%"},
+    {"sym": "GVR", "sub": "Giá 27.300 đ", "val": 1.47, "label": "1,5%"},
+    {"sym": "BVH", "sub": "Giá 58.000 đ", "val": 1.39, "label": "1,4%"}
+   ]
+  },
+  {
+   "headline": "VND, GVR và PVS chốt danh sách cổ đông dự đại hội cổ đông bất thường",
+   "body": "VNDirect (VND) có ngày GDKHQ 23/11, đăng ký cuối cùng 25/11; thời gian và địa điểm họp sẽ thông báo sau. GVR và PVS (sàn HNX) cùng có ngày GDKHQ 26/11, đăng ký cuối cùng 27/11, dự kiến họp ngày 29/12/2026. Phiên 20/11, VND tăng 3,9%.",
+   "chart_title": "Thay đổi giá phiên 20/11",
+   "chart_sub": "So với phiên 19/11, tính từ giá đóng cửa SSI",
+   "rows": [
+    {"sym": "VND", "sub": "GDKHQ 23/11", "val": 3.89, "label": "+3,9%"},
+    {"sym": "PVS", "sub": "GDKHQ 26/11", "val": 0.38, "label": "+0,4%"},
+    {"sym": "GVR", "sub": "GDKHQ 26/11", "val": 0.36, "label": "−0,4%"}
+   ]
+  },
+  {
+   "headline": "Thành viên HĐQT DXG đăng ký mua 15 triệu cổ phiếu, khoảng 164 tỷ đồng theo giá 20/11",
+   "body": "Ông Hà Đức Hiếu (thành viên HĐQT DXG) đăng ký mua 15 triệu cổ phiếu từ 03/11 đến 02/12, trước đó nắm 471.997 cổ phiếu. Con gái Chủ tịch HĐQT NKG đăng ký mua 5 triệu cổ phiếu đến 16/12; người nhà thành viên HĐQT OCB đăng ký bán 0,8 triệu cổ phiếu từ 24/11. Đăng ký chưa chắc được thực hiện hết.",
+   "chart_title": "Giao dịch nội bộ đang đăng ký",
+   "chart_sub": "Đơn vị: triệu cổ phiếu, theo thông báo trên SSI",
+   "rows": [
+    {"sym": "DXG", "sub": "Mua · đến 02/12", "val": 15, "label": "15"},
+    {"sym": "NKG", "sub": "Mua · đến 16/12", "val": 5, "label": "5"},
+    {"sym": "OCB", "sub": "Bán · 24/11–23/12", "val": 0.8, "label": "0,8"}
+   ]
+  }
+ ],
+ "kind": "sang"
+}
