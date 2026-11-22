@@ -1,0 +1,137 @@
+{
+ "tag": "2211",
+ "date": "22/11/2026",
+ "source": "Nguồn: SSI, CBTT HoSE, Thời báo Tài chính VN, Tin nhanh CK, CafeF, Vietstock",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Chủ Nhật · 22/11/2026",
+   "headline": "FPT: khối ngoại bán ròng gần 1.000 tỷ đồng trong 1 tuần",
+   "bullets": [
+    "Tuần 16–20/11: FPT giảm 5 phiên liên tiếp, mất 10,2%",
+    "Khối ngoại bán ròng FPT 12 phiên liên tiếp (5/11 – 20/11)",
+    "Lệnh lớn chờ thực hiện: SHI, DHA, OCB"
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": "Câu chuyện doanh nghiệp · FPT",
+   "headline": "Hơn 2 tuần dòng vốn ngoại rút khỏi FPT",
+   "items": [
+    [
+     "04/11/2026",
+     "Phiên mua ròng gần nhất: khối ngoại mua ròng 183 tỷ đồng, FPT tăng trần 6,94% lên 53.900 đồng."
+    ],
+    [
+     "05/11 – 13/11",
+     "Khối ngoại bán ròng 7 phiên liên tiếp. Mạnh nhất phiên 12/11: bán ròng 450 tỷ đồng (cũng là ngày 171,4 triệu cổ phiếu thưởng bắt đầu giao dịch)."
+    ],
+    [
+     "16/11 – 20/11",
+     "FPT giảm cả 5 phiên, khối ngoại bán ròng tổng cộng khoảng 965 tỷ đồng."
+    ],
+    [
+     "20/11/2026",
+     "Đóng cửa 45.000 đồng, thấp hơn 16,5% so với phiên 04/11."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Câu chuyện doanh nghiệp · FPT",
+   "headline": "Tuần 16–20/11 qua từng phiên",
+   "rows": [
+    [
+     "Phiên",
+     "Giá đóng cửa",
+     "Khối ngoại ròng"
+    ],
+    [
+     "16/11",
+     "49.400 (−1,4%)",
+     "−163,2 tỷ"
+    ],
+    [
+     "17/11",
+     "48.500 (−1,8%)",
+     "−146,9 tỷ"
+    ],
+    [
+     "18/11",
+     "46.950 (−3,2%)",
+     "−225,7 tỷ"
+    ],
+    [
+     "19/11",
+     "45.700 (−2,7%)",
+     "−272,1 tỷ"
+    ],
+    [
+     "20/11",
+     "45.000 (−1,5%)",
+     "−157,0 tỷ"
+    ]
+   ],
+   "note": "Theo Thời báo Tài chính VN, phiên 19/11 FPT chiếm hơn 27% giá trị bán ròng của khối ngoại trên HoSE. Sắp tới: FPT trả cổ tức tiền mặt đợt 1/2026 tỷ lệ 10% (1.000 đồng/cp), giao dịch không hưởng quyền 27/11, thanh toán 10/12. Số liệu: SSI."
+  },
+  {
+   "type": "deals",
+   "title": "Lệnh lớn đang chờ thực hiện",
+   "headline": "Ai đang đăng ký mua/bán?",
+   "items": [
+    {
+     "sym": "SHI",
+     "action": "MUA",
+     "qty": "≈7,87 triệu cp",
+     "who": "Ông Lê Vĩnh Sơn, Chủ tịch HĐQT Sơn Hà",
+     "time": "25/11 – 24/12/2026",
+     "note": "Sở hữu dự kiến 15,36%"
+    },
+    {
+     "sym": "DHA",
+     "action": "MUA",
+     "qty": "1,2 triệu cp",
+     "who": "Cty Khai thác Tài nguyên Lợi Lộc (liên quan TV HĐQT Nguyễn Tấn Lộc)",
+     "time": "26/11 – 25/12/2026",
+     "note": "Cùng ngày ông Lộc đăng ký bán 375.000 cp"
+    },
+    {
+     "sym": "OCB",
+     "action": "BÁN",
+     "qty": "800.000 cp",
+     "who": "Bà Nguyễn Việt Triều, vợ TV HĐQT Ngô Hà Bắc",
+     "time": "24/11 – 23/12/2026",
+     "note": "Nhu cầu cá nhân"
+    }
+   ]
+  },
+  {
+   "type": "deals",
+   "title": "Kết quả đã công bố",
+   "headline": "Kết quả các lệnh vừa kết thúc",
+   "items": [
+    {
+     "sym": "PIT",
+     "action": "BÁN",
+     "qty": "không bán hết",
+     "who": "TCT Xây lắp và Thương mại Petrolimex đăng ký thoái toàn bộ hơn 4,91 triệu cp (32,31%)",
+     "time": "20/10 – 18/11/2026"
+    },
+    {
+     "sym": "PGC",
+     "action": "BÁN",
+     "qty": "≈43.000 cp",
+     "who": "MB Capital chỉ bán được hơn 43.000 / hơn 2,08 triệu cp đăng ký, còn nắm 4,4%",
+     "time": "22/10 – 19/11/2026"
+    },
+    {
+     "sym": "NTL",
+     "action": "MUA",
+     "qty": "2,7 triệu cp",
+     "who": "Ông Đinh Quang Chiến, Phó Chủ tịch HĐQT Lideco – nâng sở hữu lên 21,4%",
+     "time": "21/10 – 12/11/2026"
+    }
+   ]
+  }
+ ]
+}
