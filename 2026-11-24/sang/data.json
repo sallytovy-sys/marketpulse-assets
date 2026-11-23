@@ -1,0 +1,58 @@
+{
+ "date": "24/11/2026",
+ "tag": "POW",
+ "source": "Nguồn: SSI · BCTC quý 3/2026",
+ "kind": "sang",
+ "slides": [
+  {
+   "headline": "POW: doanh thu quý 3 gấp đôi, lợi nhuận cổ đông mẹ tăng gần 130%",
+   "body": "Quý 3/2026, Điện lực Dầu khí Việt Nam (POW) đạt 16.772 tỷ đồng doanh thu thuần, tăng 113,5% so với cùng kỳ. Lợi nhuận thuộc cổ đông công ty mẹ tăng 129,8% lên 1.860 tỷ đồng; lợi nhuận gộp tăng chậm hơn, 79,1%, nên biên gộp giảm từ 16,4% xuống 13,8%.",
+   "chart_title": "Quý 3/2026 so với quý 3/2025",
+   "chart_sub": "Mức thay đổi so với cùng kỳ, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "DT thuần", "sub": "16.772 tỷ", "val": 113.5, "label": "+113,5%"},
+    {"sym": "LN mẹ", "sub": "1.860 tỷ", "val": 129.8, "label": "+129,8%"},
+    {"sym": "LNTT", "sub": "2.414 tỷ", "val": 138.6, "label": "+138,6%"},
+    {"sym": "LN gộp", "sub": "2.311 tỷ", "val": 79.1, "label": "+79,1%"}
+   ]
+  },
+  {
+   "headline": "9 tháng 2026, POW lãi 6.434 tỷ đồng, gấp 2,65 lần cả năm 2025",
+   "body": "Lợi nhuận cổ đông công ty mẹ lũy kế 9 tháng 2026 tăng 246,5% so với cùng kỳ, doanh thu 9 tháng tăng 94,5% lên 49.406 tỷ đồng. Tuy vậy, lợi nhuận quý 3 thấp hơn quý 2/2026 (3.375 tỷ đồng) khoảng 44,9%.",
+   "chart_title": "Lợi nhuận cổ đông công ty mẹ theo quý",
+   "chart_sub": "Đơn vị: tỷ đồng, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "Q3/2026", "sub": "", "val": 1860, "label": "1.860"},
+    {"sym": "Q2/2026", "sub": "", "val": 3375, "label": "3.375"},
+    {"sym": "Q1/2026", "sub": "", "val": 1200, "label": "1.200"},
+    {"sym": "Q4/2025", "sub": "", "val": 570, "label": "570"},
+    {"sym": "Q3/2025", "sub": "", "val": 809, "label": "809"},
+    {"sym": "Q2/2025", "sub": "", "val": 602, "label": "602"}
+   ]
+  },
+  {
+   "headline": "ROE 12 tháng tăng từ 5,8% lên 17,9%; P/E còn khoảng 5,8 lần",
+   "body": "Với giá đóng cửa 13.700 đồng (phiên 23/11) và EPS 12 tháng gần nhất 2.353 đồng, P/E của POW khoảng 5,8 lần, P/B khoảng 0,97 lần. Tổng nợ phải trả bằng 1,35 lần vốn chủ sở hữu.",
+   "chart_title": "ROE 12 tháng gần nhất tại các kỳ báo cáo",
+   "chart_sub": "Đơn vị: %, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "Q3/2026", "sub": "", "val": 17.9, "label": "17,9%"},
+    {"sym": "Q2/2026", "sub": "", "val": 16.2, "label": "16,2%"},
+    {"sym": "Q1/2026", "sub": "", "val": 9.2, "label": "9,2%"},
+    {"sym": "Q3/2025", "sub": "", "val": 5.8, "label": "5,8%"},
+    {"sym": "Q2/2025", "sub": "", "val": 4.6, "label": "4,6%"}
+   ]
+  },
+  {
+   "headline": "SSI Research chấm POW 91/100 điểm kỹ thuật, 64/100 điểm cơ bản",
+   "body": "Điểm phân tích cơ bản (FA) của POW đạt 64/100, trong đó điểm kết quả kinh doanh 91/100. Điểm kỹ thuật (TA) đạt 91/100. Phiên 23/11, khối ngoại mua ròng POW khoảng 176,5 tỷ đồng. Điểm của SSI là thứ hạng tương đối, không phải khuyến nghị.",
+   "chart_title": "Điểm đánh giá của SSI Research",
+   "chart_sub": "Thang 100, xếp hạng tương đối trong nhóm cổ phiếu được chấm",
+   "rows": [
+    {"sym": "TA", "sub": "Phân tích kỹ thuật", "val": 91, "label": "91/100"},
+    {"sym": "KQKD", "sub": "Kết quả kinh doanh", "val": 91, "label": "91/100"},
+    {"sym": "FA", "sub": "Phân tích cơ bản", "val": 64, "label": "64/100"}
+   ]
+  }
+ ]
+}
