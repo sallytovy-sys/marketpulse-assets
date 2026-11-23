@@ -1,0 +1,59 @@
+{
+ "date": "23/11/2026",
+ "tag": "2311",
+ "kind": "chieu",
+ "slides": [
+  {
+   "headline": "VN-Index tăng 8,35 điểm, chấm dứt chuỗi 4 phiên giảm",
+   "body": "VN-Index tăng 0,49% lên 1.697,14 điểm, đóng cửa sát mức cao nhất phiên sau khi có lúc xuống 1.671,72 điểm. Khối lượng khớp khoảng 419 triệu cổ phiếu, thấp hơn phiên 20/11; 10/24 mã thanh khoản lớn nhất HOSE tăng giá, 12 mã giảm.",
+   "chart_title": "Diễn biến chỉ số và cổ phiếu trụ",
+   "chart_sub": "Mức thay đổi trong phiên 23/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "FPT", "sub": "+1.850 đ", "val": 4.11, "label": "+4,11%"},
+    {"sym": "TCB", "sub": "−450 đ", "val": 2.12, "label": "−2,12%"},
+    {"sym": "VHM", "sub": "+1.100 đ", "val": 1.82, "label": "+1,82%"},
+    {"sym": "VIC", "sub": "+3.800 đ", "val": 1.57, "label": "+1,57%"},
+    {"sym": "VN-Index", "sub": "+8,35 điểm", "val": 0.49, "label": "+0,49%"}
+   ]
+  },
+  {
+   "headline": "FPT tăng 4,11%, dẫn đầu cả đà tăng lẫn thanh khoản",
+   "body": "FPT, GMD, POW, VHM và VNM tăng mạnh nhất trong 24 mã thanh khoản cao trên HOSE. FPT khớp khoảng 778,3 tỷ đồng, cao nhất sàn, gấp đôi mã đứng thứ hai là HDB.",
+   "chart_title": "5 cổ phiếu tăng mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức thay đổi giá trong phiên 23/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "FPT", "sub": "+1.850 đ", "val": 4.11, "label": "+4,11%"},
+    {"sym": "GMD", "sub": "+1.900 đ", "val": 3.8, "label": "+3,80%"},
+    {"sym": "POW", "sub": "+400 đ", "val": 3.01, "label": "+3,01%"},
+    {"sym": "VHM", "sub": "+1.100 đ", "val": 1.82, "label": "+1,82%"},
+    {"sym": "VNM", "sub": "+900 đ", "val": 1.75, "label": "+1,75%"}
+   ]
+  },
+  {
+   "headline": "PNJ giảm sàn 6,67%, nhóm chứng khoán đi lùi",
+   "body": "PNJ, TCH, TCB, VND và SSI giảm mạnh nhất trong 24 mã thanh khoản cao. PNJ đóng cửa đúng giá sàn 12.600 đồng với giá trị khớp khoảng 205,9 tỷ đồng.",
+   "chart_title": "5 cổ phiếu giảm mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức giảm giá trong phiên 23/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "PNJ", "sub": "−900 đ", "val": 6.67, "label": "−6,67%"},
+    {"sym": "TCH", "sub": "−600 đ", "val": 4.32, "label": "−4,32%"},
+    {"sym": "TCB", "sub": "−450 đ", "val": 2.12, "label": "−2,12%"},
+    {"sym": "VND", "sub": "−250 đ", "val": 1.7, "label": "−1,70%"},
+    {"sym": "SSI", "sub": "−250 đ", "val": 1.25, "label": "−1,25%"}
+   ]
+  },
+  {
+   "headline": "Khối ngoại bán ròng khoảng 151 tỷ đồng, POW được gom mạnh",
+   "body": "POW được mua ròng 176,5 tỷ đồng, GMD 61,0 tỷ đồng. Chiều bán, HDB bị bán ròng 98,6 tỷ đồng, SSI 69,4 tỷ đồng và VIX 67,3 tỷ đồng. Số liệu tính trên các mã lớn marketpulse theo dõi.",
+   "chart_title": "Giá trị mua/bán ròng của khối ngoại",
+   "chart_sub": "Đơn vị: tỷ đồng, phiên 23/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "POW", "sub": "Mua ròng", "val": 176.5, "label": "+176,5"},
+    {"sym": "HDB", "sub": "Bán ròng", "val": 98.6, "label": "−98,6"},
+    {"sym": "SSI", "sub": "Bán ròng", "val": 69.4, "label": "−69,4"},
+    {"sym": "VIX", "sub": "Bán ròng", "val": 67.3, "label": "−67,3"},
+    {"sym": "GMD", "sub": "Mua ròng", "val": 61.0, "label": "+61,0"}
+   ]
+  }
+ ]
+}
