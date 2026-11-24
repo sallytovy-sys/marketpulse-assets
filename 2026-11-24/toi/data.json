@@ -1,0 +1,138 @@
+{
+ "tag": "2411",
+ "date": "24/11/2026",
+ "source": "Nguồn: SSI, CBTT HNX/HoSE, CafeF, Markettimes, VnBusiness, Vietstock",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Thứ Ba · 24/11/2026",
+   "headline": "TIG: Chủ tịch bị bán giải chấp 6,2 triệu cổ phiếu, con gái đăng ký mua 5 triệu",
+   "bullets": [
+    "Giá TIG từ 4.800 đồng (05/11) còn 2.700 đồng (23/11), giảm 43,75%",
+    "Lệnh lớn chờ thực hiện: SHI, TIG, OCB",
+    "Hôm nay thị trường nghỉ Ngày Văn hóa Việt Nam, giao dịch lại từ 25/11"
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": "Câu chuyện doanh nghiệp · TIG",
+   "headline": "3 tuần biến động của TIG",
+   "items": [
+    [
+     "06–12/11",
+     "Cổ phiếu TIG giảm sàn 5 phiên liên tiếp, từ 4.800 xuống 3.000 đồng (SSI)."
+    ],
+    [
+     "10–11/11",
+     "CTCK Stanley Brothers thông báo bán giải chấp 240.000 cp TIG của bà Nguyễn Hồ Hương Ly, con gái Chủ tịch (theo CafeF)."
+    ],
+    [
+     "13/11",
+     "TIG giải trình giá giảm sàn là “do cung cầu của thị trường”, hoạt động cốt lõi vẫn triển khai theo kế hoạch."
+    ],
+    [
+     "16/11 và 19/11",
+     "Chủ tịch Nguyễn Phúc Long bị bán giải chấp 3,5 triệu và 2,7 triệu cp (CBTT HNX, CafeF)."
+    ],
+    [
+     "16/11",
+     "Bà Hương Ly đăng ký mua 5 triệu cp TIG, từ 17/11 đến 15/12 (CBTT HNX)."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Câu chuyện doanh nghiệp · TIG",
+   "headline": "Sở hữu của Chủ tịch còn 16,48%",
+   "rows": [
+    [
+     "Mốc",
+     "Số cổ phiếu",
+     "Tỷ lệ"
+    ],
+    [
+     "Trước 16/11",
+     "38,11 triệu",
+     "19,68%"
+    ],
+    [
+     "Sau khi bị bán 3,5 triệu (16/11)",
+     "34,61 triệu",
+     "17,88%"
+    ],
+    [
+     "Sau khi bị bán 2,7 triệu (19/11)",
+     "31,91 triệu",
+     "16,48%"
+    ],
+    [
+     "Con gái Hương Ly nếu mua đủ",
+     "5,5 triệu",
+     "2,85%"
+    ]
+   ],
+   "note": "9 tháng 2026 TIG lãi sau thuế 5,8 tỷ đồng (cùng kỳ 45,3 tỷ); dư nợ vay cuối quý 3 khoảng 933 tỷ đồng (theo CafeF, VnBusiness). Giá đóng cửa 23/11: 2.700 đồng. Số liệu giá: SSI."
+  },
+  {
+   "type": "deals",
+   "title": "Lệnh lớn đang chờ thực hiện",
+   "headline": "Ai đang đăng ký mua/bán?",
+   "items": [
+    {
+     "sym": "SHI",
+     "action": "MUA",
+     "qty": "≈7,88 triệu cp",
+     "who": "Ông Lê Vĩnh Sơn, Chủ tịch HĐQT Sơn Hà",
+     "time": "25/11 – 24/12/2026",
+     "note": "Sở hữu 10,7% → 15,36%"
+    },
+    {
+     "sym": "TIG",
+     "action": "MUA",
+     "qty": "5 triệu cp",
+     "who": "Bà Nguyễn Hồ Hương Ly, con gái Chủ tịch HĐQT",
+     "time": "17/11 – 15/12/2026",
+     "note": "Sở hữu 0,26% → 2,85%"
+    },
+    {
+     "sym": "OCB",
+     "action": "BÁN",
+     "qty": "800.000 cp",
+     "who": "Bà Nguyễn Việt Triều, vợ thành viên HĐQT Ngô Hà Bắc",
+     "time": "24/11 – 23/12/2026",
+     "note": "Sở hữu 0,102% → 0,075%"
+    }
+   ]
+  },
+  {
+   "type": "deals",
+   "title": "Đáng chú ý gần đây",
+   "headline": "Novaland thoái vốn 2 công ty con",
+   "items": [
+    {
+     "sym": "NVL",
+     "action": "BÁN",
+     "qty": "toàn bộ vốn 2 công ty con",
+     "who": "Novaland bán 99,974% vốn tại Nova Phúc Nguyên (hơn 490 tỷ đồng) và 51% tại Novaland Đất Tâm (theo CafeF)",
+     "time": "công bố tuần qua",
+     "note": "NVL đóng cửa 23/11: 9.890 đ, dưới mệnh giá"
+    },
+    {
+     "sym": "NVL",
+     "action": "LÙI LỊCH",
+     "qty": "≈800,7 triệu cp phát hành",
+     "who": "Hạn đăng ký, nộp tiền mua cổ phiếu cho cổ đông hiện hữu lùi từ 26/11 sang 28/12",
+     "time": "chuyển nhượng quyền mua đến 23/12/2026"
+    },
+    {
+     "sym": "NTL",
+     "action": "MUA",
+     "qty": "2,7 triệu cp",
+     "who": "Ông Đinh Quang Chiến, Phó Chủ tịch HĐQT Lideco – đã hoàn tất",
+     "time": "21/10 – 12/11/2026",
+     "note": "Sở hữu lên 21,4%"
+    }
+   ]
+  }
+ ]
+}
