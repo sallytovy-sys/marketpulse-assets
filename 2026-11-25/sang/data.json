@@ -1,0 +1,60 @@
+{
+ "date": "25/11/2026",
+ "tag": "HPG",
+ "source": "Nguồn: SSI · BCTC quý 3/2026",
+ "kind": "sang",
+ "slides": [
+  {
+   "headline": "HPG: P/E khoảng 6,3 lần, mức thấp nhất trong 2 năm dữ liệu SSI",
+   "body": "Với giá đóng cửa 20.400 đồng (phiên 23/11) và EPS 12 tháng gần nhất 3.251 đồng, P/E của Hòa Phát (HPG) khoảng 6,3 lần. Một năm trước (24/11/2025), P/E ở mức 14,4 lần. Đây là mức thấp nhất trong chuỗi P/E theo ngày của SSI từ 11/2024.",
+   "chart_title": "P/E của HPG tại một số thời điểm",
+   "chart_sub": "Đơn vị: lần, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "23/11/26", "sub": "", "val": 6.3, "label": "6,3"},
+    {"sym": "31/07/26", "sub": "", "val": 7.9, "label": "7,9"},
+    {"sym": "04/05/26", "sub": "", "val": 10.0, "label": "10,0"},
+    {"sym": "24/11/25", "sub": "", "val": 14.4, "label": "14,4"},
+    {"sym": "30/05/25", "sub": "", "val": 13.2, "label": "13,2"},
+    {"sym": "25/11/24", "sub": "", "val": 13.8, "label": "13,8"}
+   ]
+  },
+  {
+   "headline": "P/E giảm chủ yếu vì EPS 12 tháng tăng 73,3% trong một năm",
+   "body": "EPS 12 tháng gần nhất của HPG tăng từ 1.876 đồng (quý 3/2025) lên 3.251 đồng (quý 3/2026), tức tăng 73,3%, và đã tăng liên tục qua các quý năm 2026. Lợi nhuận tăng nhanh hơn giá cổ phiếu nên P/E thấp đi.",
+   "chart_title": "EPS 12 tháng gần nhất tại các kỳ báo cáo",
+   "chart_sub": "Đơn vị: đồng/cổ phiếu, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "Q3/2026", "sub": "", "val": 3251, "label": "3.251"},
+    {"sym": "Q2/2026", "sub": "", "val": 2750, "label": "2.750"},
+    {"sym": "Q1/2026", "sub": "", "val": 2499, "label": "2.499"},
+    {"sym": "Năm 2025", "sub": "", "val": 2013, "label": "2.013"},
+    {"sym": "Q3/2025", "sub": "", "val": 1876, "label": "1.876"}
+   ]
+  },
+  {
+   "headline": "P/B về 1,16 lần trong khi ROE 12 tháng lên 19,7%",
+   "body": "Giá trị sổ sách mỗi cổ phiếu khoảng 17.624 đồng, nên P/B của HPG khoảng 1,16 lần (phiên 23/11), thấp hơn mức 1,66 lần một năm trước. Cùng lúc, ROE 12 tháng tăng từ 12,0% lên 19,7%. Tổng nợ phải trả bằng 0,90 lần vốn chủ sở hữu.",
+   "chart_title": "ROE 12 tháng gần nhất tại các kỳ báo cáo",
+   "chart_sub": "Đơn vị: %, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "Q3/2026", "sub": "", "val": 19.7, "label": "19,7%"},
+    {"sym": "Q2/2026", "sub": "", "val": 17.4, "label": "17,4%"},
+    {"sym": "Q1/2026", "sub": "", "val": 16.4, "label": "16,4%"},
+    {"sym": "Năm 2025", "sub": "", "val": 12.7, "label": "12,7%"},
+    {"sym": "Q3/2025", "sub": "", "val": 12.0, "label": "12,0%"}
+   ]
+  },
+  {
+   "headline": "SSI Research chấm HPG 68/100 điểm cơ bản, 73/100 điểm kỹ thuật",
+   "body": "Điểm phân tích cơ bản (FA) của HPG đạt 68/100, điểm triển vọng ngành 73/100, điểm kết quả kinh doanh 68/100. Điểm kỹ thuật (TA) đạt 73/100. Phiên 23/11, khối ngoại bán ròng HPG khoảng 38,9 tỷ đồng. Điểm của SSI là thứ hạng tương đối, không phải khuyến nghị.",
+   "chart_title": "Điểm đánh giá của SSI Research",
+   "chart_sub": "Thang 100, xếp hạng tương đối trong nhóm cổ phiếu được chấm",
+   "rows": [
+    {"sym": "TA", "sub": "Phân tích kỹ thuật", "val": 73, "label": "73/100"},
+    {"sym": "Ngành", "sub": "Triển vọng ngành", "val": 73, "label": "73/100"},
+    {"sym": "FA", "sub": "Phân tích cơ bản", "val": 68, "label": "68/100"},
+    {"sym": "KQKD", "sub": "Kết quả kinh doanh", "val": 68, "label": "68/100"}
+   ]
+  }
+ ]
+}
