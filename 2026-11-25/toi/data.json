@@ -1,0 +1,52 @@
+{
+ "tag": "2511",
+ "date": "25/11/2026",
+ "source": "Nguồn: SSI, Tin nhanh CK, Người Quan Sát, CafeF, Mekong ASEAN, An ninh Thủ đô",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Thứ Tư · 25/11/2026",
+   "headline": "VIC: khối ngoại bán ròng hơn 4.700 tỷ đồng chỉ trong 1 phiên",
+   "bullets": [
+    "Khoảng 18,7 triệu cp VIC sang tay qua 3 lệnh thỏa thuận; giá VIC chỉ giảm 0,12%",
+    "Cả thị trường: khối ngoại bán ròng ≈5.676 tỷ đồng, gần 13 lần phiên 23/11",
+    "Lệnh lớn chờ thực hiện: SHI, RYG, OCB"
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": "Phiên 25/11 · VIC và VN-Index",
+   "headline": "Một phiên, một cổ phiếu, hơn 4.700 tỷ đồng",
+   "items": [
+    ["Trong phiên", "VN-Index có lúc vượt 1.700 điểm, cao nhất 1.706,16 điểm (SSI)."],
+    ["Phiên chiều", "Chỉ số đảo chiều; cổ phiếu chứng khoán, bất động sản bị bán mạnh (VND −3,11%, DXG −3,23%)."],
+    ["Thỏa thuận", "3 lệnh thỏa thuận VIC, khoảng 18,7 triệu cp, bình quân hơn 1.500 tỷ đồng mỗi lệnh (theo Người Quan Sát). Bên mua, bên bán chưa được công bố."],
+    ["Đóng cửa", "VN-Index 1.687,45 điểm (−9,69 điểm, −0,57%). VIC 245.400 đồng (−0,12%), khớp lệnh 1,36 triệu cp (SSI)."]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Khối ngoại phiên 25/11",
+   "headline": "Bỏ VIC ra, HOSE bị bán ròng gần 1.000 tỷ",
+   "rows": [
+    ["Khối ngoại", "Giá trị", "Ghi chú"],
+    ["Mua trên HOSE", "1.465,3 tỷ", ""],
+    ["Bán trên HOSE", "7.140,2 tỷ", ""],
+    ["Bán ròng HOSE", "5.674,9 tỷ", "≈59,65 triệu cp"],
+    ["Riêng VIC", "≈4.701 tỷ", "≈19,1 triệu cp"],
+    ["Cả 3 sàn", "≈5.676 tỷ", "23/11: 441 tỷ"]
+   ],
+   "note": "Bán ròng tiếp theo: MSN ≈123 tỷ, VIX ≈60 tỷ, HDB ≈55 tỷ. Mua ròng nhiều nhất: VNM 33,1 tỷ (HOSE), IDC 25,75 tỷ (HNX). Theo Tin nhanh CK, CafeF, Mekong ASEAN."
+  },
+  {
+   "type": "deals",
+   "title": "Lệnh lớn đang chờ thực hiện",
+   "headline": "Ai đang đăng ký mua/bán?",
+   "items": [
+    {"sym": "SHI", "action": "MUA", "qty": "≈7,88 triệu cp", "who": "Ông Lê Vĩnh Sơn, Chủ tịch HĐQT Sơn Hà", "time": "25/11 – 24/12/2026", "note": "Sở hữu 10,7% → 15,36%"},
+    {"sym": "RYG", "action": "MUA", "qty": "1,5 triệu cp mỗi người", "who": "Chủ tịch HĐQT Đinh Việt Anh và Thư ký công ty Nguyễn Thị Kim Loan", "time": "30/11 – 23/12/2026", "note": "Chủ tịch 22,46% → 24,61%"},
+    {"sym": "OCB", "action": "BÁN", "qty": "800.000 cp", "who": "Bà Nguyễn Việt Triều, vợ thành viên HĐQT Ngô Hà Bắc", "time": "24/11 – 23/12/2026", "note": "Sở hữu 0,102% → 0,075%"}
+   ]
+  }
+ ]
+}
