@@ -1,0 +1,148 @@
+{
+ "date": "26/11/2026",
+ "tag": "MWG",
+ "source": "Nguồn: SSI · BCTC quý 3/2026",
+ "kind": "sang",
+ "slides": [
+  {
+   "headline": "MWG: nợ phải trả chỉ còn 1,05 lần vốn chủ, thấp nhất 2 năm dữ liệu SSI",
+   "body": "Cuối quý 3/2026, Thế Giới Di Động có 54.997 tỷ đồng nợ phải trả và 52.395 tỷ đồng vốn chủ sở hữu. So với cuối quý 2, vốn chủ tăng 16.044 tỷ đồng (+44,1%), còn nợ phải trả giảm 13.567 tỷ đồng (−19,8%).",
+   "chart_title": "Tổng nợ phải trả / vốn chủ sở hữu",
+   "chart_sub": "Đơn vị: lần, cuối mỗi quý, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "Q3/2026",
+     "sub": "",
+     "val": 1.05,
+     "label": "1,05"
+    },
+    {
+     "sym": "Q2/2026",
+     "sub": "",
+     "val": 1.89,
+     "label": "1,89"
+    },
+    {
+     "sym": "Q1/2026",
+     "sub": "",
+     "val": 1.34,
+     "label": "1,34"
+    },
+    {
+     "sym": "Q4/2025",
+     "sub": "",
+     "val": 1.53,
+     "label": "1,53"
+    },
+    {
+     "sym": "Q3/2025",
+     "sub": "",
+     "val": 1.53,
+     "label": "1,53"
+    }
+   ]
+  },
+  {
+   "headline": "Hàng tồn kho tăng 45% trong một năm, lên hơn 35.000 tỷ đồng",
+   "body": "So với cuối quý 3/2025, hàng tồn kho tăng 45,4% lên 35.054 tỷ đồng. Vay ngắn hạn giảm nhẹ 3,2% còn 27.774 tỷ đồng, tiền và tương đương tiền 6.456 tỷ đồng. Tài sản ngắn hạn gấp 1,83 lần nợ ngắn hạn.",
+   "chart_title": "Cuối quý 3/2026 so với cuối quý 3/2025",
+   "chart_sub": "Mức thay đổi so với cùng kỳ (Vay NH = vay ngắn hạn), theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "Vốn chủ",
+     "sub": "52.395 tỷ",
+     "val": 64.8,
+     "label": "+64,8%"
+    },
+    {
+     "sym": "Tồn kho",
+     "sub": "35.054 tỷ",
+     "val": 45.4,
+     "label": "+45,4%"
+    },
+    {
+     "sym": "Tiền",
+     "sub": "6.456 tỷ",
+     "val": 17.2,
+     "label": "+17,2%"
+    },
+    {
+     "sym": "Nợ phải trả",
+     "sub": "54.997 tỷ",
+     "val": 13.4,
+     "label": "+13,4%"
+    },
+    {
+     "sym": "Vay NH",
+     "sub": "27.774 tỷ",
+     "val": 3.2,
+     "label": "−3,2%"
+    }
+   ]
+  },
+  {
+   "headline": "Dòng tiền kinh doanh quý 3 âm 531 tỷ đồng dù lãi sau thuế 3.521 tỷ",
+   "body": "Lũy kế 9 tháng 2026, dòng tiền thuần từ hoạt động kinh doanh đạt 3.044 tỷ đồng, giảm 54,6% so với cùng kỳ, trong khi lợi nhuận sau thuế 9 tháng tăng 93,1%. Riêng quý 3, MWG chi 2.188 tỷ đồng trả cổ tức; dòng tiền tài chính thuần dương 9.731 tỷ đồng.",
+   "chart_title": "Dòng tiền thuần từ hoạt động kinh doanh",
+   "chart_sub": "Đơn vị: tỷ đồng, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "Q3/2026",
+     "sub": "",
+     "val": 531,
+     "label": "−531"
+    },
+    {
+     "sym": "Q3/2025",
+     "sub": "",
+     "val": 2776,
+     "label": "2.776"
+    },
+    {
+     "sym": "9T/2026",
+     "sub": "Lũy kế",
+     "val": 3044,
+     "label": "3.044"
+    },
+    {
+     "sym": "9T/2025",
+     "sub": "Lũy kế",
+     "val": 6708,
+     "label": "6.708"
+    }
+   ]
+  },
+  {
+   "headline": "SSI Research chấm MWG 90/100 điểm kết quả kinh doanh",
+   "body": "Điểm phân tích cơ bản (FA) đạt 75/100, xếp 5 sao; điểm kỹ thuật (TA) 57/100. Với giá đóng cửa 69.900 đồng (phiên 25/11) và EPS 12 tháng 7.556 đồng, P/E khoảng 9,3 lần; ROE 12 tháng 29,7%. Điểm của SSI là thứ hạng tương đối, không phải khuyến nghị.",
+   "chart_title": "Điểm đánh giá của SSI Research",
+   "chart_sub": "Thang 100, xếp hạng tương đối trong nhóm cổ phiếu được chấm",
+   "rows": [
+    {
+     "sym": "KQKD",
+     "sub": "Kết quả kinh doanh",
+     "val": 90,
+     "label": "90/100"
+    },
+    {
+     "sym": "FA",
+     "sub": "Phân tích cơ bản",
+     "val": 75,
+     "label": "75/100"
+    },
+    {
+     "sym": "Ngành",
+     "sub": "Triển vọng ngành",
+     "val": 70,
+     "label": "70/100"
+    },
+    {
+     "sym": "TA",
+     "sub": "Phân tích kỹ thuật",
+     "val": 57,
+     "label": "57/100"
+    }
+   ]
+  }
+ ]
+}
