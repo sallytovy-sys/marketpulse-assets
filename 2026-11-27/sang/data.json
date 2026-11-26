@@ -1,0 +1,160 @@
+{
+ "date": "27/11/2026",
+ "tag": "VNM",
+ "source": "Nguồn: SSI · BCTC quý 3/2026, giá phiên 26/11/2026",
+ "kind": "sang",
+ "slides": [
+  {
+   "headline": "VNM tăng 0,38% khi VN-Index mất 3,42%, khối ngoại mua ròng 56 tỷ đồng",
+   "body": "Phiên 26/11, VNM là 1 trong 2 mã thanh khoản lớn trên HOSE tăng giá. So với 4 doanh nghiệp thực phẩm, đồ uống lớn khác thuộc rổ SSI100, chỉ MCH tăng mạnh hơn (+1,54%); DBC giảm 4,32%.",
+   "chart_title": "Thay đổi giá phiên 26/11",
+   "chart_sub": "Dòng phụ: khối ngoại mua (+)/bán (−) ròng trong phiên, theo SSI",
+   "rows": [
+    {
+     "sym": "MCH",
+     "sub": "Ngoại −32,1 tỷ",
+     "val": 1.54,
+     "label": "+1,54%"
+    },
+    {
+     "sym": "VNM",
+     "sub": "Ngoại +56,0 tỷ",
+     "val": 0.38,
+     "label": "+0,38%"
+    },
+    {
+     "sym": "SAB",
+     "sub": "Ngoại +16,7 tỷ",
+     "val": 0.45,
+     "label": "−0,45%"
+    },
+    {
+     "sym": "MSN",
+     "sub": "Ngoại +43,4 tỷ",
+     "val": 1.16,
+     "label": "−1,16%"
+    },
+    {
+     "sym": "DBC",
+     "sub": "Ngoại −5,2 tỷ",
+     "val": 4.32,
+     "label": "−4,32%"
+    }
+   ]
+  },
+  {
+   "headline": "ROE của VNM đạt 35,1%, chỉ đứng sau MCH trong nhóm",
+   "body": "Tính 12 tháng đến quý 3/2026, MCH dẫn đầu với ROE 40,3%, VNM 35,1%; MSN và SAB quanh 22–25%, DBC 12,0%. Biên lợi nhuận ròng của VNM là 16,2%, thấp hơn SAB (18,2%) và MCH (21,8%).",
+   "chart_title": "ROE 12 tháng gần nhất (quý 3/2026)",
+   "chart_sub": "Lợi nhuận trên vốn chủ; dòng phụ: biên lợi nhuận ròng",
+   "rows": [
+    {
+     "sym": "MCH",
+     "sub": "Biên ròng 21,8%",
+     "val": 40.3,
+     "label": "40,3%"
+    },
+    {
+     "sym": "VNM",
+     "sub": "Biên ròng 16,2%",
+     "val": 35.1,
+     "label": "35,1%"
+    },
+    {
+     "sym": "MSN",
+     "sub": "Biên ròng 11,2%",
+     "val": 24.5,
+     "label": "24,5%"
+    },
+    {
+     "sym": "SAB",
+     "sub": "Biên ròng 18,2%",
+     "val": 22.2,
+     "label": "22,2%"
+    },
+    {
+     "sym": "DBC",
+     "sub": "Biên ròng 6,3%",
+     "val": 12.0,
+     "label": "12,0%"
+    }
+   ]
+  },
+  {
+   "headline": "Nợ phải trả của VNM bằng 0,51 lần vốn chủ, thấp thứ hai nhóm",
+   "body": "Cuối quý 3/2026, SAB có tỷ lệ nợ phải trả/vốn chủ thấp nhất với 0,32 lần, VNM 0,51 lần. MSN cao nhất nhóm với 1,80 lần. Tài sản ngắn hạn của VNM gấp 2,11 lần nợ ngắn hạn.",
+   "chart_title": "Tổng nợ phải trả / vốn chủ sở hữu (quý 3/2026)",
+   "chart_sub": "Đơn vị: lần; dòng phụ: biên lợi nhuận gộp 12 tháng",
+   "rows": [
+    {
+     "sym": "MSN",
+     "sub": "Biên gộp 30,7%",
+     "val": 1.8,
+     "label": "1,80"
+    },
+    {
+     "sym": "DBC",
+     "sub": "Biên gộp 14,8%",
+     "val": 1.13,
+     "label": "1,13"
+    },
+    {
+     "sym": "MCH",
+     "sub": "Biên gộp 45,5%",
+     "val": 0.85,
+     "label": "0,85"
+    },
+    {
+     "sym": "VNM",
+     "sub": "Biên gộp 42,0%",
+     "val": 0.51,
+     "label": "0,51"
+    },
+    {
+     "sym": "SAB",
+     "sub": "Biên gộp 38,0%",
+     "val": 0.32,
+     "label": "0,32"
+    }
+   ]
+  },
+  {
+   "headline": "P/E của VNM khoảng 9,7 lần; SSI Research chấm 79/100 điểm cơ bản, cao nhất nhóm",
+   "body": "Với giá đóng cửa phiên 26/11 và EPS 12 tháng, P/E của VNM thấp hơn MSN, SAB và MCH. Điểm FA của SSI: VNM 79, MSN 70, MCH 66, SAB 63, DBC 41. Điểm là thứ hạng tương đối, không phải khuyến nghị.",
+   "chart_title": "P/E theo giá phiên 26/11",
+   "chart_sub": "Giá đóng cửa / EPS 12 tháng đến quý 3/2026; dòng phụ: P/B",
+   "rows": [
+    {
+     "sym": "MCH",
+     "sub": "P/B 9,5",
+     "val": 23.5,
+     "label": "23,5"
+    },
+    {
+     "sym": "SAB",
+     "sub": "P/B 2,7",
+     "val": 12.1,
+     "label": "12,1"
+    },
+    {
+     "sym": "MSN",
+     "sub": "P/B 2,3",
+     "val": 10.9,
+     "label": "10,9"
+    },
+    {
+     "sym": "VNM",
+     "sub": "P/B 3,2",
+     "val": 9.7,
+     "label": "9,7"
+    },
+    {
+     "sym": "DBC",
+     "sub": "P/B 0,8",
+     "val": 6.6,
+     "label": "6,6"
+    }
+   ]
+  }
+ ]
+}
