@@ -1,0 +1,159 @@
+{
+ "date": "26/11/2026",
+ "tag": "2611",
+ "kind": "chieu",
+ "slides": [
+  {
+   "headline": "VN-Index mất 57,77 điểm, phiên giảm mạnh nhất từ tháng 7",
+   "body": "VN-Index giảm 3,42% về 1.629,68 điểm, mức đóng cửa thấp nhất kể từ 24/03/2026. Khối lượng khớp khoảng 691,6 triệu cổ phiếu, tăng 68% so với phiên 25/11; 22/24 mã thanh khoản lớn trên HOSE giảm giá.",
+   "chart_title": "Diễn biến chỉ số và cổ phiếu trụ",
+   "chart_sub": "Mức thay đổi trong phiên 26/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "VIC",
+     "sub": "−15.400 đ",
+     "val": 6.28,
+     "label": "−6,28%"
+    },
+    {
+     "sym": "TCB",
+     "sub": "−1.050 đ",
+     "val": 5.07,
+     "label": "−5,07%"
+    },
+    {
+     "sym": "VHM",
+     "sub": "−2.100 đ",
+     "val": 3.44,
+     "label": "−3,44%"
+    },
+    {
+     "sym": "VN-Index",
+     "sub": "−57,77 điểm",
+     "val": 3.42,
+     "label": "−3,42%"
+    },
+    {
+     "sym": "FPT",
+     "sub": "−1.550 đ",
+     "val": 3.37,
+     "label": "−3,37%"
+    }
+   ]
+  },
+  {
+   "headline": "Chỉ 2 trong 24 mã lớn tăng giá: MSB và VNM",
+   "body": "MSB tăng 0,92% và được khối ngoại mua ròng 28,4 tỷ đồng. VNM tăng 0,38%, dẫn đầu chiều mua ròng với 56,0 tỷ đồng. MSN, HDB và ACB giảm nhẹ hơn mặt bằng chung.",
+   "chart_title": "5 cổ phiếu diễn biến tốt nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức thay đổi giá trong phiên 26/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "MSB",
+     "sub": "+150 đ",
+     "val": 0.92,
+     "label": "+0,92%"
+    },
+    {
+     "sym": "VNM",
+     "sub": "+200 đ",
+     "val": 0.38,
+     "label": "+0,38%"
+    },
+    {
+     "sym": "MSN",
+     "sub": "−800 đ",
+     "val": 1.16,
+     "label": "−1,16%"
+    },
+    {
+     "sym": "HDB",
+     "sub": "−300 đ",
+     "val": 1.38,
+     "label": "−1,38%"
+    },
+    {
+     "sym": "ACB",
+     "sub": "−350 đ",
+     "val": 1.76,
+     "label": "−1,76%"
+    }
+   ]
+  },
+  {
+   "headline": "GEX, KDH và VIC cùng mất hơn 6%",
+   "body": "GEX, KDH, VIC, CII và PNJ giảm mạnh nhất trong 24 mã thanh khoản cao trên HOSE. Trong nhóm này, VIX dẫn đầu giá trị khớp lệnh với khoảng 674,8 tỷ đồng, FPT đứng thứ hai với 637,4 tỷ đồng.",
+   "chart_title": "5 cổ phiếu giảm mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức giảm giá trong phiên 26/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "GEX",
+     "sub": "−1.300 đ",
+     "val": 6.53,
+     "label": "−6,53%"
+    },
+    {
+     "sym": "KDH",
+     "sub": "−950 đ",
+     "val": 6.35,
+     "label": "−6,35%"
+    },
+    {
+     "sym": "VIC",
+     "sub": "−15.400 đ",
+     "val": 6.28,
+     "label": "−6,28%"
+    },
+    {
+     "sym": "CII",
+     "sub": "−750 đ",
+     "val": 5.54,
+     "label": "−5,54%"
+    },
+    {
+     "sym": "PNJ",
+     "sub": "−700 đ",
+     "val": 5.47,
+     "label": "−5,47%"
+    }
+   ]
+  },
+  {
+   "headline": "Khối ngoại bán ròng khoảng 262 tỷ đồng, tập trung ở VIC",
+   "body": "VIC bị bán ròng 191,4 tỷ đồng, TCB 81,0 tỷ đồng. Ở chiều ngược lại, VNM được mua ròng 56,0 tỷ đồng, MSN 43,4 tỷ đồng. Số liệu tính trên các mã lớn marketpulse theo dõi.",
+   "chart_title": "Giá trị mua/bán ròng của khối ngoại",
+   "chart_sub": "Đơn vị: tỷ đồng, phiên 26/11, theo dữ liệu SSI",
+   "rows": [
+    {
+     "sym": "VIC",
+     "sub": "Bán ròng",
+     "val": 191.4,
+     "label": "−191,4"
+    },
+    {
+     "sym": "TCB",
+     "sub": "Bán ròng",
+     "val": 81.0,
+     "label": "−81,0"
+    },
+    {
+     "sym": "VHM",
+     "sub": "Bán ròng",
+     "val": 45.7,
+     "label": "−45,7"
+    },
+    {
+     "sym": "HPG",
+     "sub": "Bán ròng",
+     "val": 44.7,
+     "label": "−44,7"
+    },
+    {
+     "sym": "VNM",
+     "sub": "Mua ròng",
+     "val": 56.0,
+     "label": "+56,0"
+    }
+   ]
+  }
+ ]
+}
