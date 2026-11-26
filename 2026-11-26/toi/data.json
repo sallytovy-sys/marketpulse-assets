@@ -1,0 +1,52 @@
+{
+ "tag": "2611",
+ "date": "26/11/2026",
+ "source": "Nguồn: TTXVN, VnExpress, Dân trí, Vietstock, CafeF, SSI",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Thứ Năm · 26/11/2026",
+   "headline": "Mỹ đề xuất thuế bổ sung tối đa 35% với hàng Việt, VN-Index mất gần 58 điểm",
+   "bullets": [
+    "USTR công bố kết luận sơ bộ điều tra theo Mục 301 với 14 nền kinh tế, có Việt Nam",
+    "VN-Index −57,77 điểm (−3,42%), phiên giảm mạnh nhất kể từ 22/7",
+    "Lệnh lớn chờ thực hiện: VNS, TCI"
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": "Đề xuất thuế của Mỹ · Mục 301",
+   "headline": "Từ kết luận sơ bộ đến quyết định cuối cùng",
+   "items": [
+    ["Tối 25/11 (giờ VN)", "USTR công bố kết luận sơ bộ điều tra theo Mục 301 về dư thừa công suất mang tính cơ cấu trong sản xuất, với 14/16 nền kinh tế, trong đó có Việt Nam."],
+    ["Đề xuất với Việt Nam", "Thuế bổ sung tối đa 35%, có thể giảm xuống 20% nếu hai nước đạt thỏa thuận thương mại đối ứng. Danh mục miễn trừ: 2.121 dòng hàng (mã HS 8 số)."],
+    ["Từ 25/1/2027", "Dự kiến điều trần công khai về kết luận sơ bộ."],
+    ["Tháng 2 – 11/3/2027", "Quyết định cuối cùng sớm nhất tháng 2/2027, muộn nhất 11/3/2027. Hiện mới là đề xuất, chưa có hiệu lực."]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Phiên 26/11 · Thị trường",
+   "headline": "Phiên giảm mạnh nhất kể từ 22/7",
+   "rows": [
+    ["Chỉ tiêu", "Phiên 26/11", "Ghi chú"],
+    ["VN-Index", "1.629,68", "−57,77 điểm (−3,42%)"],
+    ["Mã giảm trên HOSE", "273", "≈79% số mã"],
+    ["VIC", "230.000 đ", "−6,28%, lấy đi ≈25 điểm"],
+    ["Khớp lệnh HOSE", "> 16.000 tỷ", "thấp hơn nhẹ phiên trước"],
+    ["Khối ngoại", "Bán ròng", "phiên thứ 7 liên tiếp"]
+   ],
+   "note": "Phiên 22/7: VN-Index −62 điểm (−3,58%). Nhóm giảm mạnh: bất động sản, công nghiệp, du lịch – giải trí, hóa chất, chứng khoán, công nghệ, bảo hiểm. VIC bị khối ngoại bán ròng 191,4 tỷ đồng (SSI). Theo TTXVN, VnExpress, SSI."
+  },
+  {
+   "type": "deals",
+   "title": "Lệnh lớn đang chờ thực hiện",
+   "headline": "Ai đang đăng ký mua/bán?",
+   "items": [
+    {"sym": "VNS", "action": "MUA", "qty": "4 triệu cp", "who": "Ông Lê Hải Đoàn, thành viên HĐQT Vinasun", "time": "1/12 – 30/12/2026", "note": "Sở hữu 14,93% → 20,82%"},
+    {"sym": "VNS", "action": "BÁN", "qty": "≈1,46 triệu cp", "who": "Công ty TNHH Tư vấn Kim Ngưu – bán toàn bộ (2,15% vốn)", "time": "17/11 – 15/12/2026", "note": "Lý do: cơ cấu danh mục đầu tư"},
+    {"sym": "TCI", "action": "BÁN", "qty": "5,8 triệu cp", "who": "Sài Gòn 3 Capital, cổ đông lớn nhất, công ty mẹ của Chứng khoán Thành Công", "time": "1/12 – 30/12/2026", "note": "Sở hữu trên 54% → ≈49%"}
+   ]
+  }
+ ]
+}
