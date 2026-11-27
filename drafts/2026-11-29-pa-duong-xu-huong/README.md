@@ -4,3 +4,5 @@
 - File `mp_pa_2911_3.png` ở đây là cùng slide, thêm đường xu hướng nét đứt xanh ngọc #0D9488 nối đỉnh 18/9 (1.841,20) và 8/10 (1.764,45), kéo dài đến 22/10. Dựng bằng bản sao renderer có thêm tham số tùy chọn `lines` (không sửa tools/).
 - Đây là thay đổi thiết kế (thêm yếu tố mới lên biểu đồ) nên theo RULES.md §2 cần Sally xác nhận.
 - Nếu Sally đồng ý: chép file này đè lên `2026-11-29/pa/mp_pa_2911_3.png` trước 16h03 CN 29/11. Không đồng ý: giữ nguyên bài chính.
+
+**27/11 tối: Sally duyệt dùng bản có đường cho riêng bài CN 29/11.** Đã chép đè lên `2026-11-29/pa/mp_pa_2911_3.png` (data.json có thêm trường `lines` để ghi lại). Không áp dụng cho các bài sau: renderer chính chưa đổi, khi dựng lại bằng `tools/render_ta.py` thì đường sẽ không hiện.

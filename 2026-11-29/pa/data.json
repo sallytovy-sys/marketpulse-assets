@@ -395,7 +395,16 @@
     "08/10/2026": "Điểm 2",
     "21/10/2026": "Phá vỡ"
    },
-   "note": "Đường nối đỉnh 1.841,20 (18/9) và 1.764,45 (8/10), mỗi phiên hạ khoảng 5,5 điểm. 23/9 giá lên sát đường (cách 2,1 điểm) rồi quay xuống. 21/10 đóng cửa 1.738,67, trên đường (khoảng 1.715), khối lượng 809 triệu cổ phiếu, cao nhất kể từ 22/7."
+   "note": "Đường nối đỉnh 1.841,20 (18/9) và 1.764,45 (8/10), mỗi phiên hạ khoảng 5,5 điểm. 23/9 giá lên sát đường (cách 2,1 điểm) rồi quay xuống. 21/10 đóng cửa 1.738,67, trên đường (khoảng 1.715), khối lượng 809 triệu cổ phiếu, cao nhất kể từ 22/7.",
+   "lines": [
+    [
+     "18/09/2026",
+     1841.2,
+     "08/10/2026",
+     1764.45,
+     "22/10/2026"
+    ]
+   ]
   },
   {
    "type": "list",
