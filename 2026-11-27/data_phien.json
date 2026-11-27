@@ -1,0 +1,59 @@
+{
+ "date": "27/11/2026",
+ "tag": "2711",
+ "kind": "chieu",
+ "slides": [
+  {
+   "headline": "VN-Index hồi phục 24,22 điểm sau phiên giảm mạnh",
+   "body": "VN-Index tăng 1,49% lên 1.653,90 điểm, lấy lại khoảng 42% số điểm đã mất phiên 26/11. Khối lượng khớp khoảng 461 triệu cổ phiếu, giảm 33% so với phiên trước; 19/24 mã thanh khoản lớn trên HOSE tăng giá.",
+   "chart_title": "Diễn biến chỉ số và cổ phiếu trụ",
+   "chart_sub": "Mức thay đổi trong phiên 27/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "TCB", "sub": "+500 đ", "val": 2.54, "label": "+2,54%"},
+    {"sym": "FPT", "sub": "+1.100 đ", "val": 2.53, "label": "+2,53%"},
+    {"sym": "VIC", "sub": "+5.000 đ", "val": 2.17, "label": "+2,17%"},
+    {"sym": "HPG", "sub": "+300 đ", "val": 1.53, "label": "+1,53%"},
+    {"sym": "VN-Index", "sub": "+24,22 điểm", "val": 1.49, "label": "+1,49%"}
+   ]
+  },
+  {
+   "headline": "BSR tăng trần, NVL tăng 6,1%",
+   "body": "BSR đóng cửa ở giá trần 24.100 đồng và được khối ngoại mua ròng 55,5 tỷ đồng. NVL, TCH, MBB và MWG cũng nằm trong nhóm tăng mạnh nhất 24 mã thanh khoản cao trên HOSE.",
+   "chart_title": "5 cổ phiếu tăng mạnh nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức thay đổi giá trong phiên 27/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "BSR", "sub": "+1.550 đ", "val": 6.87, "label": "+6,87%"},
+    {"sym": "NVL", "sub": "+540 đ", "val": 6.10, "label": "+6,10%"},
+    {"sym": "TCH", "sub": "+500 đ", "val": 4.08, "label": "+4,08%"},
+    {"sym": "MBB", "sub": "+500 đ", "val": 2.82, "label": "+2,82%"},
+    {"sym": "MWG", "sub": "+1.800 đ", "val": 2.69, "label": "+2,69%"}
+   ]
+  },
+  {
+   "headline": "Chỉ CII và VCI giảm giá, CII có lúc chạm sàn",
+   "body": "CII giảm 1,56% dù có lúc chạm giá sàn 11.950 đồng, khớp khoảng 356,4 tỷ đồng. VCI giảm 1,36%. SSI, HDB và KDH đứng giá tham chiếu.",
+   "chart_title": "5 cổ phiếu diễn biến kém nhất nhóm thanh khoản cao",
+   "chart_sub": "Mức thay đổi giá trong phiên 27/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "CII", "sub": "−200 đ", "val": 1.56, "label": "−1,56%"},
+    {"sym": "VCI", "sub": "−250 đ", "val": 1.36, "label": "−1,36%"},
+    {"sym": "SSI", "sub": "0 đ", "val": 0, "label": "0,00%"},
+    {"sym": "HDB", "sub": "0 đ", "val": 0, "label": "0,00%"},
+    {"sym": "KDH", "sub": "0 đ", "val": 0, "label": "0,00%"}
+   ]
+  },
+  {
+   "headline": "Khối ngoại mua ròng khoảng 542 tỷ đồng, FPT dẫn đầu",
+   "body": "FPT được mua ròng 181,9 tỷ đồng, MBB 79,6 tỷ đồng, BSR 55,5 tỷ đồng. Chiều bán, HDB bị bán ròng 15,2 tỷ đồng, VCB 14,6 tỷ đồng. Số liệu tính trên các mã lớn marketpulse theo dõi.",
+   "chart_title": "Giá trị mua/bán ròng của khối ngoại",
+   "chart_sub": "Đơn vị: tỷ đồng, phiên 27/11, theo dữ liệu SSI",
+   "rows": [
+    {"sym": "FPT", "sub": "Mua ròng", "val": 181.9, "label": "+181,9"},
+    {"sym": "MBB", "sub": "Mua ròng", "val": 79.6, "label": "+79,6"},
+    {"sym": "BSR", "sub": "Mua ròng", "val": 55.5, "label": "+55,5"},
+    {"sym": "HPG", "sub": "Mua ròng", "val": 52.3, "label": "+52,3"},
+    {"sym": "HDB", "sub": "Bán ròng", "val": 15.2, "label": "−15,2"}
+   ]
+  }
+ ]
+}
