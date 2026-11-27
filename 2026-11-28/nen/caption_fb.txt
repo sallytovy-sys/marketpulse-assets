@@ -1,0 +1,21 @@
+🕯️ HỌC NẾN NHẬT CUỐI TUẦN · BÀI 2: NẾN NHẤN CHÌM GIẢM (BEARISH ENGULFING)
+
+Khi phe bán "nuốt trọn" phiên tăng ngay trước đó. Bài 1 là nhấn chìm tăng, hôm nay là phiên bản ngược lại.
+
+📌 3 điều kiện nhận diện:
+1. Nến thứ nhất là nến tăng (thân xanh)
+2. Nến thứ hai là nến giảm, mở cửa cao hơn hoặc bằng giá đóng cửa của nến thứ nhất và đóng cửa thấp hơn giá mở cửa của nến thứ nhất: thân nến 2 bao trọn thân nến 1
+3. Mô hình xuất hiện sau một nhịp tăng
+
+Tín hiệu đáng chú ý hơn khi xuất hiện ở vùng kháng cự hoặc sau một nhịp tăng dài, khối lượng phiên 2 lớn hơn phiên 1 và thân nến 2 dài. Đây chỉ là tín hiệu đảo chiều tiềm năng, cần phiên sau xác nhận.
+
+🔎 Ví dụ thật VN-Index: sau nhịp tăng 7,3% từ 17/8, phiên 4/9 tăng từ 1.829,66 lên 1.853,08 điểm. Phiên 7/9 mở cửa 1.857,32, có lúc lên 1.874,48 rồi đóng cửa 1.821,64 điểm (−31,4 điểm), đúng mức thấp nhất phiên. Ngày 14/9 chỉ số về 1.788,23 điểm và đến 27/11 vẫn chưa đóng cửa lại trên 1.853,08 điểm. Lưu ý: khối lượng phiên 7/9 chỉ tương đương phiên trước, nên theo tiêu chí khối lượng tín hiệu này chưa thật mạnh.
+
+⚠️ Đừng hoảng chỉ vì 1 cây nến: xem bối cảnh, chờ phiên sau xác nhận, nhìn khối lượng và xác định trước mức giá cho thấy mình sai (ví dụ giá vượt đỉnh nến 2).
+
+👉 Xem đủ trong 5 hình.
+💬 Bạn từng gặp nhấn chìm giảm ở đỉnh của cổ phiếu nào?
+🔔 Theo dõi MarketPulse.Vn: cuối tuần học Nến Nhật (8h45) và Price Action (16h05).
+
+📊 Nguồn dữ liệu: SSI | Kiến thức tham khảo, không phải khuyến nghị đầu tư.
+#nennhat #phantichkythuat #vnindex #chungkhoan #hocchungkhoan #marketpulse

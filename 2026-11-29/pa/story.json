@@ -1,0 +1,23 @@
+{
+ "series": "pa",
+ "date": "29/11",
+ "big": "TRENDLINE",
+ "sub": "Đường xu hướng giảm<br>VN-Index bị phá 21/10",
+ "rows": [
+  [
+   "Đỉnh 18/9",
+   "1.841,20",
+   "down"
+  ],
+  [
+   "Đỉnh 8/10",
+   "1.764,45",
+   "down"
+  ],
+  [
+   "Đóng cửa 21/10",
+   "1.738,67",
+   "up"
+  ]
+ ]
+}

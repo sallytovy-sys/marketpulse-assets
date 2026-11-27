@@ -1,0 +1,26 @@
+📐 PRICE ACTION CUỐI TUẦN · BÀI 4: VẼ ĐƯỜNG XU HƯỚNG
+
+Tiếp bài hôm qua: nối các đỉnh thấp dần của VN-Index, ta có một đường xu hướng giảm. Đường này bị phá phiên 21/10/2026.
+
+📌 Cách vẽ:
+• Xu hướng tăng: nối ít nhất 2 đáy cao dần, đường nằm dưới giá
+• Xu hướng giảm: nối ít nhất 2 đỉnh thấp dần, đường nằm trên giá
+• Đường đúng không cắt ngang các cây nến nằm giữa 2 điểm nối
+• Giá chạm đường lần thứ 3 rồi quay đầu: đường càng được thị trường chú ý
+
+🔎 Ví dụ thật VN-Index: đường nối đỉnh 1.841,20 điểm (18/9) và 1.764,45 điểm (8/10), mỗi phiên hạ khoảng 5,5 điểm. Ngày 23/9 giá lên sát đường (cách 2,1 điểm) rồi quay xuống. Phiên 21/10 chỉ số tăng 46,7 điểm, đóng cửa 1.738,67 điểm, trên đường (khoảng 1.715 điểm), khối lượng 809 triệu cổ phiếu, cao nhất kể từ 22/7.
+
+Sau đó: chỉ số lên 1.781,45 điểm vào 26/10, nhưng ngày 3/11 đã về 1.699,62 điểm. Phá đường xu hướng giảm cho biết nhịp giảm đó đã yếu đi, chưa chắc xu hướng tăng bắt đầu: cần xem tiếp đỉnh và đáy mới (bài hôm qua) để xác nhận.
+
+⚠️ 4 lỗi khi vẽ đường xu hướng:
+1. Cố bẻ đường cho khớp mọi điểm: đường cắt qua nhiều cây nến là đường sai
+2. Nối 2 điểm quá gần nhau: nên chọn đỉnh, đáy của những nhịp rõ ràng
+3. Coi giá vượt đường trong phiên là phá vỡ: nên chờ giá đóng cửa
+4. Không chịu chấp nhận: đường bị phá thì ghi nhận và vẽ đường mới
+
+👉 Xem biểu đồ VN-Index và các lỗi thường gặp trong 5 hình.
+💬 Bạn vẽ đường xu hướng bằng thân nến hay bằng bóng nến?
+🔔 Theo dõi MarketPulse.Vn: cuối tuần học Nến Nhật (8h45) và Price Action (16h05).
+
+📊 Nguồn dữ liệu: SSI | Kiến thức tham khảo, không phải khuyến nghị đầu tư.
+#priceaction #phantichkythuat #vnindex #chungkhoan #hocchungkhoan #marketpulse

@@ -1,0 +1,21 @@
+🕯️ HỌC NẾN NHẬT CUỐI TUẦN · Bài 3: Nến Búa (Hammer)
+
+Bị bán mạnh trong phiên nhưng phe mua kéo giá trở lại: bóng dưới dài chính là dấu vết của lực mua.
+
+📌 3 điều kiện nhận diện:
+1. Thân nến nhỏ, nằm ở phần trên của cây nến (xanh hay đỏ đều được)
+2. Bóng dưới dài ít nhất gấp 2 lần thân nến; bóng trên rất ngắn hoặc không có
+3. Xuất hiện sau một nhịp giảm (cùng hình dạng nhưng sau nhịp tăng là nến Người treo cổ, bài tuần sau)
+
+🔎 Ví dụ thật VN30: sau nhịp giảm từ 12/10, phiên 20/10 VN30 mở cửa 1.839,75, có lúc xuống 1.825,19 rồi đóng cửa 1.845,51 điểm. Bóng dưới 14,6 điểm, gấp 2,5 lần thân nến. Phiên 21/10 xác nhận: tăng 35,1 điểm (+1,9%), khối lượng cao hơn 37%. VN30 lên 1.907,09 điểm vào 23/10.
+
+Nhưng tín hiệu không kéo dài mãi: ngày 2/11 VN30 đóng cửa 1.813,41 điểm, dưới đáy cây búa. Đáy cây búa chính là mức giá cho thấy tín hiệu đã sai.
+
+⚠️ Không phải cây nến bóng dài nào cũng là Búa: xem bối cảnh, kiểm tra tỷ lệ bóng/thân, chờ phiên sau xác nhận và luôn có kế hoạch rủi ro.
+
+👉 Vuốt để xem biểu đồ VN30 và các lỗi thường gặp.
+💬 Bạn đã từng thấy nến Búa ở đáy cổ phiếu nào?
+🔔 Theo dõi @marketpulse.vn: cuối tuần học Nến Nhật (8h45) và Price Action (16h05).
+
+📊 Nguồn dữ liệu: SSI | Kiến thức tham khảo, không phải khuyến nghị đầu tư.
+#nennhat #phantichkythuat #vn30 #chungkhoan #hocchungkhoan #marketpulse
