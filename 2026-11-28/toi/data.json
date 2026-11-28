@@ -1,0 +1,103 @@
+{
+ "tag": "2811",
+ "date": "28/11/2026",
+ "source": "Nguồn: CBTT HoSE, Tin nhanh CK, CafeF, SSI",
+ "slides": [
+  {
+   "type": "cover",
+   "kicker": "Thứ Bảy · 28/11/2026",
+   "headline": "Vinasun: lỗ 9 tháng, cổ phiếu về vùng thấp nhất hơn 5 năm, lãnh đạo đăng ký gom thêm",
+   "bullets": [
+    "TV HĐQT Lê Hải Đoàn đăng ký mua 4 triệu cp VNS (1/12 – 30/12)",
+    "Cổ đông được hỏi ý kiến việc miễn chào mua công khai cho TGĐ Đặng Thành Duy, hạn 30/11",
+    "Lệnh lớn chờ thực hiện: TCI, RYG"
+   ]
+  },
+  {
+   "type": "timeline",
+   "title": "Câu chuyện doanh nghiệp · VNS",
+   "headline": "Một tháng nhiều biến động của Vinasun",
+   "items": [
+    [
+     "30/10/2026",
+     "BCTC quý III: lỗ 54,89 tỷ đồng (cùng kỳ lãi 9,25 tỷ). 9 tháng lỗ 68,82 tỷ, kế hoạch năm là lãi 32,68 tỷ đồng."
+    ],
+    [
+     "7/10 – 11/11/2026",
+     "Kim Ngưu (tổ chức liên quan người nội bộ) bán 727.800/1 triệu cp đăng ký, rồi đăng ký bán nốt gần 1,5 triệu cp."
+    ],
+    [
+     "10/11/2026",
+     "Lấy ý kiến cổ đông: miễn chào mua công khai để TGĐ Đặng Thành Duy nhận tối đa 6.055.451 cp (8,92%). Hạn phiếu 30/11."
+    ],
+    [
+     "25/11/2026",
+     "TV HĐQT Lê Hải Đoàn đăng ký mua 4 triệu cp (1/12 – 30/12)."
+    ],
+    [
+     "26/11/2026",
+     "VNS đóng cửa 5.000 đồng, thấp nhất từ 7/2021 (theo CafeF)."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Câu chuyện doanh nghiệp · VNS",
+   "headline": "Ai đang tăng, ai đang giảm sở hữu?",
+   "rows": [
+    [
+     "Cổ đông",
+     "Hiện tại",
+     "Nếu giao dịch xong"
+    ],
+    [
+     "Gia đình TGĐ Đặng Thành Duy",
+     "42,56%",
+     "51,48%"
+    ],
+    [
+     "Ông Lê Hải Đoàn (TV HĐQT)",
+     "≈ 14,9%",
+     "20,82%"
+    ],
+    [
+     "Tư vấn Kim Ngưu",
+     "≈ 1,5 triệu cp",
+     "0"
+    ]
+   ],
+   "note": "Gia đình TGĐ gồm ông Duy (5,73%), cha là ông Đặng Phước Thành (24,92%) và mẹ là bà Ngô Thị Thuý Vân (11,91%), số liệu tại 30/6/2026 (theo Tin nhanh Chứng khoán). Sau đợt mua, ông Đoàn nắm 14,13 triệu cp; hai tổ chức liên quan đến ông là HIPT và VBP nắm khoảng 2,5 triệu và 5,27 triệu cp (theo CafeF)."
+  },
+  {
+   "type": "deals",
+   "title": "Lệnh lớn đang chờ thực hiện",
+   "headline": "Ai đang đăng ký mua/bán?",
+   "items": [
+    {
+     "sym": "VNS",
+     "action": "MUA",
+     "qty": "4 triệu cp",
+     "who": "Ông Lê Hải Đoàn, thành viên HĐQT Vinasun",
+     "time": "1/12 – 30/12/2026",
+     "note": "Sở hữu lên 14,13 triệu cp (20,82%)"
+    },
+    {
+     "sym": "TCI",
+     "action": "BÁN",
+     "qty": "5,8 triệu cp",
+     "who": "Công ty TNHH Đầu tư Sài Gòn 3 Capital, cổ đông lớn nhất và là công ty mẹ của Chứng khoán Thành Công",
+     "time": "1/12 – 30/12/2026",
+     "note": "54,06% → 49,04%, không còn là công ty mẹ"
+    },
+    {
+     "sym": "RYG",
+     "action": "MUA",
+     "qty": "1,5 triệu cp/người",
+     "who": "Chủ tịch HĐQT Đinh Việt Anh và Kế toán trưởng Nguyễn Thị Kim Loan",
+     "time": "30/11 – 23/12/2026",
+     "note": "Chủ tịch lên ≈17,13 triệu cp (24,61%)"
+    }
+   ]
+  }
+ ]
+}
